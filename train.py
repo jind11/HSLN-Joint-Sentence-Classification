@@ -18,11 +18,11 @@ def main():
 
     # create datasets
     dev   = Dataset(config.filename_dev, config.processing_word,
-                    config.processing_tag, config.max_iter, config.use_elmo)
+                    config.processing_tag, config.max_iter)
     train = Dataset(config.filename_train, config.processing_word,
-                    config.processing_tag, config.max_iter, config.use_elmo)
+                    config.processing_tag, config.max_iter)
     test  = Dataset(config.filename_test, config.processing_word,
-                    config.processing_tag, config.max_iter, config.use_elmo)
+                    config.processing_tag, config.max_iter)
 
     # train model
     model.train(train, dev)

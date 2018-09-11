@@ -1,6 +1,5 @@
 import numpy as np
 import os
-from gensim.models.keyedvectors import KeyedVectors
 
 # shared global variables to be imported from model also
 PAD = '<PAD>'
@@ -44,7 +43,7 @@ class Dataset(object):
 
     """
     def __init__(self, filename, processing_word=None, processing_tag=None,
-                 max_iter=None, use_elmo=False):
+                 max_iter=None):
         """
         Args:
             filename: path to the file
@@ -58,7 +57,6 @@ class Dataset(object):
         self.processing_tag = processing_tag
         self.max_iter = max_iter
         self.length = None
-        self.use_elmo = use_elmo
 
 
     def __iter__(self):
@@ -72,8 +70,6 @@ class Dataset(object):
                         niter += 1
                         if self.max_iter is not None and niter > self.max_iter:
                             break
-                        if self.use_elmo:
-                            sentences = [[BOS] + sentence + [EOS] for sentence in sentences]
                         yield sentences, tags
                         sentences, tags = [], []
                 elif not line.startswith("###"):
@@ -224,31 +220,6 @@ def export_trimmed_wordvec_vectors(vocab, wordvec_filename, trimmed_filename):
     print('{} out of {} tokens can find pre-trained embeddings!'.format(num, len(vocab)))
 
 
-def export_trimmed_wordvec_vectors_bin(vocab, wordvec_filename, trimmed_filename):
-    """Saves glove vectors in numpy array
-
-    Args:
-        vocab: dictionary vocab[word] = index
-        glove_filename: a path to a glove file
-        trimmed_filename: a path where to store a matrix in npy
-        dim: (int) dimension of embeddings
-
-    """
-    num = 0
-    word_vectors = KeyedVectors.load_word2vec_format(wordvec_filename, binary=True)
-    with open(trimmed_filename, 'w') as outFile:
-        for token in vocab:
-            try:
-                vec = word_vectors[token]
-            except:
-                pass
-            else:
-                outFile.write(' '.join([token] + list(map(str, vec))) + '\n')
-                num += 1
-
-    print('{} out of {} tokens can find pre-trained embeddings!'.format(num, len(vocab)))
-
-
 def get_trimmed_wordvec_vectors(filename, vocab):
     """
     Args:
@@ -258,9 +229,9 @@ def get_trimmed_wordvec_vectors(filename, vocab):
         matrix of embeddings (np array)
 
     """
-    f = open(filename, 'r')
-    next(f)
-    dim = len(f.readline().strip().split()) - 1
+    with open(filename, 'r') as inFile:
+        inFile.readline()
+        dim = len(inFile.readline().strip().split()) - 1
     embeddings = np.random.uniform(-0.1, 0.1, size=(len(vocab)+1, dim))
     with open(filename, 'r') as inFile:
         for line in inFile:

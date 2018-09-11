@@ -43,7 +43,7 @@ def main():
 
     # Trim Embedding Vectors
     vocab = load_vocab(config.filename_words)
-    export_trimmed_wordvec_vectors_bin(vocab, config.filename_wordvec,
+    export_trimmed_wordvec_vectors(vocab, config.filename_wordvec,
                                 config.filename_wordvec_trimmed)
 
     # Build and save char vocab

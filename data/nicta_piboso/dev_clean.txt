@@ -1,0 +1,961 @@
+###707740
+population	One hundred thirty-four patients suspected of having pancreas cancer successfully underwent gray scale ultrasound examination of the pancreas .
+outcome	The prospective ultrasound findings were correlated with the final diagnoses , laparotomy findings , and pathology findings .
+outcome	Fifty-four patients had pancreas cancer , confirmed by resection or biopsy in all cases .
+outcome	On ultrasonography , the pancreas was correctly reported to have abnormalities in sixty-one of seventy-eight patients ( 78 per cent ) and correctly reported to have no abnornalities in thirty-eight of fifty-six patients ( 68 per cent ) .
+outcome	A correct ultrasound diagnosis of pancreas cancer was made for forty-four of fifty-six patients ( 81 per cent ) , and there were thirteen false-positive reports .
+outcome	Ninety-four percent of cancers confined to the head of the pancreas and 70 per cent of cancers at other locations within the gland were detected by ultrasound examination .
+outcome	The correct ultrasound diagnosis was given for fifteen of seventeen patients with resectable pancreas cancer , the degree of associated pancreatitis ranging from minimal to severe .
+outcome	Analysis of the predictive values of positive and negative ultrasound examinations suggests that this test could be used to screen a population of patients with symptoms mildly suggestive of pancreas cancer .
+outcome	The importance of preselecting the level of confidence of a positive test result , a , ove which further investigation is indicated , is emphasized .
+
+###18727133
+background	In this secondary data analysis of Primary Care Research in Substance Abuse and Mental Health for the Elderly ( PRIMSe ) study , we hypothesized that older minorities who receive mental health services integrated in primary care settings would have greater s
+population	We identified 2,022 ( 48 % minorities ) primary care patients 65 years and older , who met study inclusion criteria and had either alcohol misuse , depression , and/or anxiety .
+intervention	They were randomized to receive treatment for these disorders in the primary care clinic or to a brokerage case management model that linked patients to community-based services .
+other	Service use and clinical outcomes were collected at baseline , three months and six months post randomization on all participants .
+outcome	Access to and participation in mental health / substance abuse services was greater in the integrated model than in referral ; there were no treatment by ethnicity effects .
+outcome	There were no treatment effects for any of the clinical outcomes ; Whites and older minorities in both integrated and referral groups failed to show clinically significant improvement in symptoms and physical functioning at 6 months .
+outcome	While providing services in primary care results in better access to and use of these services , accessing these services is not enough for assuring adequate clinical outcomes .
+
+###17352796
+background	This report describes the case mix and outcome ( mortality , intensive care unit ( ICU ) and hospital length of stay ) for admissions to ICU for head injury and evaluates the predictive ability of five risk adjustment models .
+population	A secondary analysis was conducted of data from the Intensive Care National Audit and Research Centre ( ICNARC ) Case Mix Programme , a high quality clinical database , of 374,594 admissions to 171 adult critical care units across England , Wales and Northern
+other	The discrimination and calibration of five risk prediction models , SAPS II , MPM II , APACHE II and III and the ICNARC model plus raw Glasgow Coma Score ( GCS ) were compared .
+outcome	There were 11,021 admissions following traumatic brain injury identified ( 3 % of all database admissions ) .
+outcome	Mortality in ICU was 23.5 % and in-hospital was 33.5 % .
+outcome	Median ICU and hospital lengths of stay were 3.2 and 24 days , respectively , for survivors and 1.6 and 3 days , respectively , for non-survivors .
+outcome	The ICNARC model , SAPS II and MPM II discriminated best between survivors and non-survivors and were better calibrated than raw GCS , APACHE II and III in 5,393 patients eligible for all models .
+outcome	Traumatic brain injury requiring intensive care has a high mortality rate .
+outcome	Non-survivors have a short length of ICU and hospital stay .
+outcome	APACHE II and III have poorer calibration and discrimination than SAPS II , MPM II and the ICNARC model in traumatic brain injury ; however , no model had perfect calibration .
+
+###9217691
+background	Patients with multiple sclerosis who develop progressive disability from onset without relapses or remissions pose difficulties in diagnosis , monitoring of disease activity and treatment .
+background	There is a need to define the diagnostic criteria for this group more precisely and , in particular , to describe a comprehensive battery of investigations to exclude other conditions .
+background	The mechanisms underlying the development of disability and the role of MRI in monitoring disease activity in this clinical subgroup require elucidation , particularly in view of the lack of change on conventional imaging in the presence of continuing clin
+background	The prognosis is poor and there are currently no treatment trials for this form of the disease .
+
+###18053435
+background	Diabetes mellitus affects 21 million Americans ; an additional 41 million individuals in this country have impaired glucose tolerance .
+background	These individuals are at high risk for developing not only diabetes , but eventually dying from the cardiovascular complications associated with chronic exposure to hyperglycemia .
+background	Not only do patients with diabetes carry a 1.5 - to 4.5-fold increased risk of cardiovascular mortality , any microvascular complications they develop such as retinopathy , neuropathy , and nephropathy can have a profoundly negative effect on their quality of
+background	Even mild hyperglycemia is associated with macrovascular disease .
+background	Similarly , hyperglycemia that occurs concurrently during an acute myocardial infarction or stroke is associated with worse outcomes .
+background	Therefore , evidence suggests that both chronic and acute hyperglycemia lead to higher morbidity and mortality .
+other	As people age , their 2-hour postchallenge blood glucose level typically increases , often independent of their fasting glucose level .
+other	At diagnosis , 25 % of patients with type 2 diabetes have normal fasting glucose levels .
+other	The incidence of isolated impaired glucose tolerance is approximately 3 times greater than isolated impaired fasting glucose .
+other	Therefore , most patients with asymptomatic diabetes have isolated postchallenge hyperglycemia .
+background	A growing body of literature supports targeting postprandial hyperglycemia to lower glycosylated hemoglobin ( A1C ) levels and reduce microvascular and macrovascular complications associated with chronic hyperglycemia .
+background	This article will evaluate a typical patient case and strategies employed by the patient and health care provider .
+
+###2250985
+population	Seventy two spinal cord injured subjects ( 63 males and 9 females ) with long-standing lesions ( mean 110 months , range 43-187 ) were admitted to the Sunnaas Hospital for routine examination ( questionnaire , neurological status , radiography , urodynamics , blood
+other	The subjects were divided into three groups with Low - ( peak VO2 less than 15 ml/kg/min ) , Medium - ( 15 less than VO2 greater than 25 ) and High - ( VO2 greater than 25 ) endurance capacity .
+outcome	The rate of urinary tract infections ( UTIs ) and osteoporotic leg bones , was significantly reduced with increasing oxygen uptake ( p less than 0.05 , X2 test ) .
+outcome	Differences in scores for ADL-independency ( ADL = Activities of daily living ) and ambulation on crutches with braces , were even more pronounced between the L , M and H groups ( p less than 0.001 ) .
+outcome	The same trends , although not always statistically significant , were also observed in a homogeneous group of paraplegic patients ( n = 43 , injury level below T6 ) .
+outcome	The results emphasise the importance of regular physical endurance activities to patient well-being , because relatively high endurance capacity was found to be related to less frequent medical complications , and to a higher degree of ADL self-independency
+
+###4022134
+background	Studies aimed at characterizing the operation of cognitive functions in normal individuals have examined data from patients with focal cerebral insult .
+background	These studies assume that brain damage impairs functions of the cognitive processes along lines that honour the ` normal ' pre-morbid organization of the cognitive system .
+background	For example , detailed study of individual brain-damaged patients has revealed apparently selective disruption of cognitive functions such as auditory/verbal working memory , phonological processing ability , grapheme-to-phoneme translation procedures and se
+background	Warrington et al. have studied patients with even more fine-grained selective disturbances of the semantic system .
+background	The most selective deficits have been reported for four patients who were significantly better at identifying inanimate objects than they were at identifying living things and foods .
+background	These patterns of selective deficit after localized brain damage provide important information about the normal organization of the lexicon , and ultimately about how components of the lexical system are related to particular neural substrates .
+population	Here , we report a case study of a patient demonstrating a very selective disturbance of the ability to name items from two related semantic categories .
+outcome	Despite normal performance on a large battery of lexical/semantic tasks , the patient shows a consistent and striking disability in naming members of the semantic categories of ` fruits ' and ` vegetables ' .
+outcome	The selectivity of this deficit supports a category-specific organization of the mental lexicon , and suggests independence of the processing routes involving naming and name recognition .
+
+###11959045
+background	Patients with severe decompensated congestive heart failure ( CHF ) commonly exhibit acid-base and electrolyte disturbances mainly due to the activation of several neurohumoral mechanisms as well as to drugs regularly used in this population .
+background	Magnesium deficit is not infrequently observed in CHF patients but its pathophysiology remains less well-studied as compared with other electrolyte alterations , such as hypokalemia .
+background	However , there is evidence that early detection and correction of magnesium abnormalities could obviate potentially deleterious arrhythmogenic effects .
+other	To assess the incidence of magnesium level disorders and analyze the underlying pathophysiological mechanisms in patients with CHF .
+population	Eighty-six consecutive CHF patients ( NYHA class III or IV ) admitted to our hospital over a period of 5 years were studied .
+other	Patients with diabetes mellitus , liver or renal failure , and chronic obstructive lung disease were excluded .
+intervention	All patients received conventional treatment with digoxin , diuretic agents and an angiotensin converting enzyme inhibitor .
+other	On admission , blood and urine electrolytes and renal function parameters were determined .
+other	Arterial blood gases and serum anion gap determinations were also performed .
+outcome	Hypomagnesemia was found in 15 [ n = 15 ( 17.4 % ) ] CHF patients .
+outcome	The majority of these patients also exhibited other electrolyte abnormalities , such as hypokalemia , hypocalcemia and hypophosphatemia .
+outcome	Inappropriate magnesiuria ( fractional excretion of magnesium > 4 % ) was evident in eight hypomagnesemic patients .
+outcome	A variety of associated conditions , including poor dietary intake , also favored magnesium depletion .
+outcome	Magnesium deficit is a common electrolyte disorder in CHF ( NYHA class III/IV ) patients and several interrelated mechanisms are implicated in its pathogenesis .
+outcome	Clinicians ' awareness of the incidence of hypomagnesemia in this population as well as its related pathophysiology could be useful for the early detection and appropriate treatment to inhibit its arrhythmogenic potential .
+
+###12564809
+background	Recent advances in therapy for multiple sclerosis ( MS ) have centred on the use of the disease-modifying drugs glatiramer acetate ( GA ) and interferon ( IFN ) beta .
+background	Several large-scale clinical trials have been carried out on the use of these compounds , but there have been few studies that have directly compared their efficacy in MS.
+background	Furthermore , there has been controversy and confusion over the IFN beta therapy regimen that will achieve the best possible clinical outcome for MS patients .
+intervention	This review focuses principally on clinical trials of IFN beta-1a , where data that allow direct comparison of different treatment regimens are now available .
+outcome	Current data indicate that IFN beta , and in particular IFN beta-1a , has important advantages over GA in the treatment of relapsing-remitting MS ( RRMS ) .
+outcome	Additionally , IFN beta-1a ( Rebif , Serono ) , 44 microg administered subcutaneously ( s.c. ) three times weekly ( t.i.w. ) , is significantly more effective than IFN beta-1a ( Avonex , Biogen ) , 30 microg administered intramuscularly once weekly .
+outcome	For optimal management of RRMS , treatment with IFN beta-1a , 44 microg s.c. t.i.w. , should begin as early as possible after diagnosis .
+
+###17314704
+background	The objective was to study the effectiveness of a modified washing toilet seat equipped with a CCD camera monitor and an electronic bidet to facilitate precise hitting of the anal area with water streams to stimulate bowel movement in patients with spinal
+population	There were 20 subjects , all of whom had traumatic SCI , were at least 5 mos post acute injury , and could change their position on the toilet seat while watching the monitor .
+intervention	Stimulation of bowel movement with the modified toilet seat was provided for a maximum of 30 mins .
+other	Success or failure to induce bowel movement was evaluated as related to injury level , ASIA impairment scale , and ability to voluntarily increase anorectal pressure , measured with a manometory .
+outcome	Bowel movement was successfully induced in 15 of the 20 patients ( 75 % ) .
+outcome	Success was not related significantly to injury level , ASIA impairment scale , or ability to voluntarily squeeze .
+outcome	Compared with their usual manner of bowel management , for which they spent more than 30 mins , time needed for successful bowel movement was shortened in 11 of 13 patients .
+outcome	No complications were observed .
+outcome	This preliminary study suggests that our newly modified washing toilet seat with a monitoring system could be a useful alternative for bowel management in patients with SCI .
+
+###14619762
+background	There is increasing realization among health care administrative decision makers and service providers that we must measure the true value of expensive services by demonstrating the achievement of identified goals .
+other	The objective of this study was to determine whether clients who received the home-based intervention for a hip arthroplasty would result in a more timely discharge home from hospital .
+population	Two hundred and eight clients receiving a total hip replacement at two acute care hospitals comprised the sample .
+intervention	One hospital included the more costly home-based pre-operative teaching by an occupational therapist as part of its protocol while the other provided comparative occupational therapy intervention within its hospital based pre-admission clinic .
+other	Discharge disposition and length of hospital stay were measured .
+other	Though no significant difference in either of these outcomes was found , a number of issues were raised indicating the complexity of resource allocation to this client population and the importance of the qualitative dimensions of care .
+outcome	The location for pre-operative teaching for total hip replacements was not found to impact the length of hospital stay nor whether clients are discharged directly home .
+
+###16022678
+background	Nociceptive inputs from primary afferents are primarily mediated at fast glutamatergic synapses onto second order neurons in the dorsal horn of the spinal cord through activation of AMPA/kainate and NMDA receptor subtypes of ionotropic glutamate receptors
+background	At these glutamatergic synapses several forms of short-lasting and long-lasting enhancement of synaptic transmission are known .
+background	Enhancement of excitatory synaptic transmission in nociceptive pathways is thought to be a key neural substrate underlying chronic pain , and thus the cellular and molecular mechanisms producing this enhancement represent potential targets for developing n
+background	Central to the mechanisms for pain hypersensitivity is the NMDA receptor , the activity of which is facilitated by convergent intracellular biochemical cascades in dorsal horn neurons .
+background	Cellular changes are not restricted to neurons in the dorsal horn , however , and there is growing evidence for involvement of glia , and of glia-neuronal signaling , in initiating and sustaining enhancement of nociceptive transmission .
+other	In particular , a role has emerged for microglia in pain hypersensitivity following nerve injury .
+outcome	This expanded understanding of cellular and molecular signalling mechanisms in the dorsal horn , that includes both neurons and glia , provides a basis of creating new types of strategies for management , and also for diagnosis , of chronic pain .
+
+###8879664
+background	The present investigation examines the phenomenology of episodic symptoms in dysfunctioning children and adolescents following mild ( n = 25 ) or severe ( n = 25 ) traumatic brain injury ( TBI ) .
+other	TBI patients in both groups commonly endorsed symptoms such as staring spells , memory gaps , and temper outbursts .
+outcome	Anticonvulsant response in the 27 patients treated , reflected moderate to substantial improvement in 92 % .
+outcome	A dose-response relationship between injury severity and number of episodic symptoms was not observed ; however , patients in the severe TBI sample did produce significantly more defective performances on a dichotic word-listening task ( DWLT ) and lower IQ v
+outcome	Defective DWLT performance was also significantly associated with greater number of episodic symptoms endorsed , but only in the mild TBI sample .
+
+###11239295
+background	To identify protective behaviors and risk factors associated with the development of pressure ulcers ( PUs ) after spinal cord injury ( SCI ) .
+study design	A cross-sectional study to evaluate the relationship between protective behaviors and risk factors and 3 PU outcomes : a current PU , PUs within the past year , and ever hospitalized for a PU .
+other	Logistic regression was then used to identify the variables most strongly associated with PU outcomes .
+other	Data were collected by case managers employed by the Arkansas Spinal Cord Commission , an agency that provides services to persons with SCI .
+population	A total of 650 of 991 eligible individuals with SCI from a statewide population-based SCI registry participated .
+other	All ambulatory participants were eliminated , leaving 560 patients .
+other	Average age of the respondents was 27.2 years at injury ( median age , 25yr ) and 43.6 years at the time of the survey ( median age , 42yr ) .
+other	A 200-item interview was developed to measure a broad range of outcomes associated with SCI ( including secondary conditions such as PUs ) , as well as risk and protective behaviors related to these outcomes .
+outcome	Several characteristics and behaviors were related to PU outcomes .
+outcome	Being underweight ( odds ratio [ OR ] = 2.18 ) , having used medications to treat pain ( OR = 1.33 ) or spasticity ( OR = 1.31 ) , having smoked at least 100 cigarettes over a lifetime ( OR = 1.31 ) , and being a current smoker ( OR = 1.21 ) were associated with having
+outcome	Having completed a college degree ( OR = 0.23 ) , being married ( OR = 0.49 ) , and being currently employed ( OR = 0.54 ) were associated with a lower risk of having a PU in the past year .
+outcome	Being underweight ( OR = 1.94 ) , having a history of incarceration ( OR = 1.78 ) , having attempted suicide ( OR = 1.71 ) , and reporting alcohol or drug treatment ( OR = 1.65 ) were associated with having been hospitalized for a PU since injury .
+outcome	This study was unable to evaluate the efficacy of traditional health maintenance or protective behaviors for PUs , such as weight shifts or skin checks .
+outcome	PUs are least likely to occur among individuals who maintain normal weight , return to a work and family role , and who do not have a history of tobacco use , suicidal behaviors , or self-reported incarcerations , or alcohol or drug abuse .
+outcome	Additional research is needed to identify better the risk factors for the occurrence of PUs .
+
+###16648302
+background	Obesity and type 2 diabetes are world wide health issues and their incidence is rapidly increasing .
+background	Currently the biological factors responsible for the development of obesity are only partially understood .
+background	Recent research has shown that maternal nutrition during pregnancy may have long-term metabolic consequences in offspring .
+other	In the present study we investigated interactions between prenatal and postnatal nutrition on leptin sensitivity and obesity development .
+population	Wistar rats were time-mated and randomly assigned to either ad-libitum ( AD ) or to 30 % of ad-libitum ( UN ) food intake throughout pregnancy .
+other	After weaning , female offspring were fed standard chow , a high-fat diet or a calorie restricted diet .
+outcome	Female offspring of UN dams were growth retarded at birth and showed increased susceptibility to diet-induced obesity on a high-fat diet .
+outcome	At 142 + / - 5 days of age , leptin sensitivity was measured as a response to 14 days of leptin treatment ( 2.5 microg/g/day , s.c. ) .
+outcome	In UN offspring fed chow , leptin treatment failed to reduce food intake and weight loss was diminished .
+outcome	This leptin resistance observed in UN offspring was independent of diet-induced obesity and was associated with fasting hyperinsulinemia and hypertriglyceridemia .
+outcome	Our study suggests that prenatal nutrition can shape future susceptibility to obesity through alterations in leptin sensitivity and changes in energy metabolism during adult life .
+
+###11791813
+population	This study assessed the first year of a regional general practitioner ( GP ) open-access neuroimaging service , to determine diagnostic yield and influence on patient management .
+outcome	Overall , 48.1 % of examinations demonstrated a radiologically significant abnormality with 64.1 % of spinal imaging examinations demonstrating significant findings .
+outcome	Utilised appropriately , a regional open-access neuroimaging service has good diagnostic yield and may influence the management of most referred patients .
+
+###18034814
+other	This paper is a presentation of a study protocol to establish the prevalence of orthopaedic problems ( hip dislocation , pelvic obliquity , spinal deformity and contractures ) and their impact on pain , function , participation and health in a population of children and young people with severe cerebral palsy .
+background	Cerebral palsy is the commonest cause of motor impairment in childhood and is associated with life-long disability .
+background	An estimated 30 % of people with cerebral palsy have severe forms and are non-ambulant .
+background	Although the underlying neurological damage is not amenable to correction , many health services are dedicated to providing therapeutic and adaptive support to help people with the condition reach their potential .
+population	A cross-sectional survey of children and young people , aged 4-25 years with severe , non-ambulant cerebral palsy as defined using the Gross Motor Function Classification System ( Levels IV and V ) .
+other	Study participants will be identified from a pre-existing , geographically defined case register and recruited via a healthcare professional known to them .
+intervention	Two assessments will be undertaken : one involving parents/carers at home and using questionnaires ; the other involving the child/young person ideally in one of three settings and including X-rays if clinically indicated .
+outcome	This study will contribute to our knowledge of the history and epidemiology of orthopaedic problems in children and young people with cerebral palsy and how these problems accumulate and impact on participation , health and well-being .
+outcome	The study will also identify unmet need and make recommendations for good practice in relation to the orthopaedic care and management for people with severe cerebral palsy .
+
+###8726198
+population	An inception cohort design was used to study a consecutive sample of back-injured workers .
+background	To refine and to test the Vermont Disability Prediction Questionnaire 's ability to indicate an individual 's relative risk for chronic disability after occupational low back injury .
+other	Although most back-injured workers return to work quickly , the minority who do not account for the majority of associated costs and health care .
+background	Early identification of workers at high risk for disability would facilitate intervention strategies .
+population	During the study recruitment period , people aged 18-60 years reporting occupational low back injury to the Vermont Department of Labor and Industry within 11 days of onset were eligible .
+other	A Vermont Disability Prediction Questionnaire was mailed to the 442 subjects who could be contacted and who gave informed consent .
+other	One hundred sixty-three of the 166 subjects who completed and returned the questionnaire within 15 days of initial injury were telephoned 3 months later to determine work status .
+other	Those who returned the questionnaire were compared with those who would not consent or did not return the questionnaire in time according to age , sex , residence , wages , work hours per week , and length of employment .
+other	Employment status ( inability to work because of low back pain ) was evaluated by telephone interview 3 months after initial injury .
+outcome	The follow-up interviewer was blinded to the Vermont Disability Prediction Questionnaire scores .
+outcome	of the 163 subjects , 16 ( 10 % ) were not working because of low back pain .
+outcome	Using a simple dichotomous scoring system for 11 questionnaire items , a cut-off score of 0.48 identified 3-month postinjury work status , with 0.94 sensitivity and 0.84 specificity .
+outcome	The Vermont Disability Prediction Questionnaire is a brief , easily administered and scored tool for identifying back-injured workers at relative risk for chronic disability .
+outcome	Such early identification should increase the efficiency of disability prevention strategies by directing them toward people who need them most .
+outcome	The accuracy of the questionnaire needs to be tested in a variety of different clinical and socioeconomic settings .
+
+###16504087
+background	Adequate and intensive rehabilitation is an important requirement for successful Total Knee Arthroplasty .
+background	The primary focus of early rehabilitation is ambulation of patients and regaining range of motion in the knee.Although research suggests that Continuous Passive Motion should be implemented in the first rehabilitation phase following surgery , there is sub
+other	A Cochrane review on this topic concluded that short-term use of CPM leads to greater short-term range of motion .
+other	It also suggested , however , that future research should concentrate on the treatment period during which CPM should be administered .
+intervention	In a randomised controlled trial we intend to investigate the efficacy of prolonged use of a continuous passive motion ( CPM ) device in the home situation as an adjunct to standardised physical therapy .
+population	The experimental treatment is compared to standardised physical therapy , in patients with osteoarthritis of the knee undergoing Total Knee Arthroplasty ( TKA ) .
+other	Efficacy will be assessed in terms of faster improvements in range of motion and functional recovery.Seventy patients with knee osteoarthritis undergoing TKA and experiencing early postoperative flexion impairment ( less than 80 degrees of knee flexion at the time of discharge ) will be randomised over two treatment groups , a usual care group and an experimental group .
+other	The experimental group will receive CPM + physiotherapy for 17 consecutive days after surgery , whereas the usual care group will receive the same treatment during the in-hospital phase ( i.e. about four days ) , followed by physical therapy alone ( usual care ) in the first two weeks after hospital discharge.From 18 days to three months after discharge , both groups will receive standardised PT .
+other	The primary focus of rehabilitation will be functional recovery ( e.g. ambulation ) and regaining range of motion ( ROM ) in the knee .
+outcome	Because restricted knee ROM affects functional activities , knee ROM and knee function are regarded as the primary indicators of successful TKA .
+outcome	Potential effects of the intervention under study include rapid return of knee flexion accompanied by earlier return to functional activities of daily life .
+outcome	If patients benefit significantly from prolonged CPM use , this treatment should be added to the standard PT treatment at home.We expect the additional home CPM programme to be more effective than the usual physiotherapy programme , resulting in a differenc
+outcome	This clinically important difference , with a possible flexion ROM of about 100 degrees , is expected to lead to better functioning in activities of daily life , like walking , and earlier ability to cycle .
+outcome	These advantages should result in earlier and increasing independence .
+
+###14555377
+background	The aim of this study was to examine the perception of low back pain care and consequences according to what Deyo refers to as seven `` myths '' about back pain , in the Norwegian population .
+population	In spring 2001 , seven questions , corresponding to Deyo 's myths , were included in an opinion poll ( telephone interviews ) of a representative sample ( n = 1015 ) of the Norwegian population .
+outcome	In total , 41 % of the population held that ` If you have a slipped disc you must have surgery ' .
+outcome	Approximately 50 % believed that ` X-ray and newer imaging tests can always identify the cause of pain ' and ` Most back pain is caused by injury and heavy lifting ' .
+outcome	Almost 60 % agreed that ` Everyone with back pain should have a spine X-ray ' .
+outcome	However , only one-quarter believed that ` If your back hurts , you should take it easy until the pain goes away ' , and approximately one-fifth believed that ` Back pain is usually disabling ' .
+outcome	Only 12 % believed that ` Bed rest is the mainstay of therapy ' .
+outcome	More individuals in the lower - compared with the higher-educated groups believed in the myths .
+outcome	Information concerning current knowledge on healthcare and health consequences of low back pain had reached only a small part of the general population .
+outcome	The most important factor for lack of knowledge was education .
+outcome	Developing effective methods to promote adequate self-care and treatment and reduce the risk of chronicity of low back pain in the lower-educated groups should be a top priority .
+
+###8444764
+background	Clonidine has been suggested as an alternative pharmacotherapy for patients with attention-deficit hyperactivity disorder ( ADHD ) and comorbid tic disorders .
+population	To examine the efficacy of clonidine in this population of children , the use of clonidine in the treatment of children with ADHD with and without comorbid tic disorders was examined in a retrospective chart review of 54 children over a 4-year period .
+other	Treatment was administered openly to these patients in a Pediatric Psychopharmacology Clinic , and response was assessed using clinical global improvement measures .
+outcome	Clonidine treatment resulted in improvement in both the ADHD ( 39/54 ; 72 % ) and tic symptoms ( 18/24 ; 75 % ) groups .
+outcome	The findings suggested that the children with ADHD with comorbid tic disorders ( 23/24 ; 96 % ) have a more frequent positive behavioral response to clonidine than children with ADHD without comorbid tic disorders ( 16/30 ; 53 % ) .
+outcome	This report provides further support of a role for clonidine in the treatment of children with ADHD , particularly for those with comorbid tic disorders .
+
+###17593119
+background	The aim of this study was to characterize the distribution , timing , and risk factors for psychiatric comorbidity in children with recent onset epilepsy .
+population	Children aged 8 to 18 years with recent onset epilepsy ( < 1 year in duration ) of idiopathic etiology ( n = 53 ) and a healthy comparison group ( n = 50 ) underwent a structured psychiatric diagnostic interview to characterize the spectrum of lifetime-to-date hi
+outcome	There was no significant difference between the children with recent onset epilepsy and healthy comparison children in sex ( 31 males , 22 females vs 23 males , 27 females ) or mean age 12.7 y [ SD 3.3 ] vs 12.7 y [ SD 3.2 ] ) .
+outcome	Children with recent onset epilepsy exhibited an elevated rate of lifetime-to-date Diagnostic and Statistical Manual of Mental Disorders , 4th edition ( DSM-IV ) Axis I disorders compared with the comparison group .
+outcome	They showed significantly higher rates of depressive disorders ( 22.6 vs. 4 % , p = 0.01 ) , anxiety disorders ( 35.8 vs 22 % , p < 0.05 ) , and attention-deficit-hyperactivity disorder ( 26.4 vs 10 % , p = 0.01 ) with elevated but less prevalent rates of oppositional def
+outcome	A subset of children with epilepsy ( 45 % ) exhibited DSM-IV Axis I disorders before the first recognized seizure , suggesting the potential influence of antecedent neurobiological factors that remain to be identified .
+outcome	The increased prevalence of psychiatric comorbidity antedating epilepsy onset may be consistent with the presence of underlying neurobiological influences independent of seizures , epilepsy syndrome , and medication treatment .
+
+###12074502
+background	Epidemiologic evidence suggests a positive association between body mass , adult height , and postmenopausal breast cancer .
+other	However , most studies have not been large enough to examine the association across a very wide range of body mass or height , and few studies have assessed the relationship between body mass or height and postmenopausal breast cancer mortality .
+study design	The relation between body mass index ( BMI ) and height and postmenopausal breast cancer mortality was examined in the American Cancer Society 's Cancer Prevention Study II ( CPS-II ) , a large prospective mortality study of US adults enrolled in 1982 .
+population	After 14 years of follow-up , 2852 breast cancer deaths were observed among 424,168 postmenopausal women who were cancer-free at interview .
+other	Cox proportional hazards modeling was used to estimate relative risks and to control for potential confounding .
+outcome	Breast cancer mortality rates increased continually and substantially with increasing BMI ( rate ratio ( RR ) = 3.08 , 95 % confidence interval ( CI ) = 2.09-4 .51 for BMI > 40.0 compared to BMI 18.5-20 .49 ) .
+outcome	If causal , the multivariate-adjusted RR estimates in this study correspond to approximately 30-50 % of breast cancer deaths among postmenopausal women in the US population being attributable to overweight .
+outcome	Breast cancer mortality also increased with increasing height up to 66 inches with RR = 1.64 , ( 95 % CI = 1.23-2 .18 ) in women 66 inches tall compared to those < 60 inches .
+outcome	Postmenopausal obesity is an important and potentially avoidable predictor of fatal breast cancer in this study .
+outcome	These results underscore the importance of maintaining moderate weight throughout adult life .
+
+###9203111
+background	In this study , we examined the psychometric quality of the recently revised DSM-IV Personality Disorders ( PD ) .
+population	A nationally drawn sample of mental health professionals rated 280 patients known to them , using a symptom checklist containing all the DSM-IV PD criteria .
+outcome	From this symptom level data we determined internal consistency , convergent validity , and discriminant validity for each DSM-IV PD criteria .
+outcome	Overall , the findings were encouraging .
+outcome	The internal consistency -- a measure of reliability -- of the PD criteria sets appears to be substantially improved .
+outcome	The median coefficient alpha for the DSM-IV PDs was .73 .
+outcome	Convergent validity was generally adequate for the DSM-IV PD criteria sets .
+outcome	However , discriminant validity , a measure of the specificity of a criterion 's relationship to its parent scale , continues to be a problem of the PDs .
+outcome	The findings suggest that the DSM-IV PDs may have better reliability than did their DSM-III-R predecessors .
+outcome	However , the weak discriminant validity found for the DSM-IV PD criteria sets indicates that the Axis II system will continue to show high levels of comorbidity .
+outcome	The usefulness of psychometric procedures in the development and refinement of the DSM PDs is also highlighted .
+
+###14973985
+background	Retention is the phase of orthodontic treatment that attempts to keep teeth in the corrected positions after orthodontic ( dental ) braces .
+background	Without a phase of retention there is a tendency for the teeth to return to their initial position ( relapse ) .
+background	To prevent relapse almost every patient who has orthodontic treatment will require some type of retention .
+other	To evaluate the effectiveness of different retention strategies used to stabilise tooth position after orthodontic braces .
+other	The Cochrane Oral Health Group 's Trials Register , CENTRAL , MEDLINE and EMBASE were searched .
+other	Several journals were handsearched .
+other	No language restrictions were applied .
+other	Authors of randomised controlled trials ( RCTs ) were identified and contacted to identify unpublished trials .
+other	Most recent search December 2002 .
+population	RCTs on children and adults , who have had retainers fitted or adjunctive procedures undertaken , following orthodontic treatment with braces to prevent relapse .
+other	The outcomes are how well the teeth are stabilised , survival of retainers , adverse effects on oral health and quality of life .
+other	Screening of eligible studies , assessment of the methodological quality of the trials and data extraction were conducted in duplicate and independently by two reviewers .
+other	As no two studies compared the same retention strategies ( interventions ) it was not possible to combine the results of any studies .
+outcome	Four trials satisfied the inclusion criteria .
+outcome	These trials all compared different interventions : circumferential supracrestal fiberotomy ( CSF ) combined with full-time removable retainer versus a full-time removable retainer alone ; circumferential supracrestal fiberotomy ( CSF ) combined with a nights-o
+outcome	There was weak unreliable evidence , based on data from one trial , that there was a statistically significant increase in stability in both the mandibular ( p < 0.001 ) and maxillary anterior segments ( p < 0.001 ) when the CSF was used , compared with wh
+outcome	There was also weak , unreliable evidence that teeth settle quicker with a Hawley retainer than with a clear overlay retainer after 3 months .
+outcome	The quality of the trial reports was generally poor .
+outcome	There are insufficient research data on which to base our clinical practice on retention at present .
+outcome	There is an urgent need for high quality randomised controlled trials in this crucial area of orthodontic practice .
+
+###12429415
+background	The rat forced swimming test ( FST ) distinguishes selective serotonin ( 5-HT ) and selective noradrenaline ( NA ) reuptake-inhibitors , which respectively increase swimming and climbing behaviours .
+background	However , NA-system-mediated inhibition of 5-HT-induced swimming prevents dual 5-HT/NA reuptake-inhibition to produce concurrently climbing with swimming .
+background	Since adaptative neurochemical processes occur in the treatment of depression , we examined the influence of long-term antidepressant treatment on these interactions .
+intervention	( 1 ) Selective [ fluoxetine : 10 mg/kg ; desipramine : 10 mg/kg ] and non-selective [ milnacipran : 40 mg/kg ; mirtazapine : 20 mg/kg ] antidepressants were administered subacutely ( 3inj ) and chronically ( 17inj ) over 16 days .
+population	( 2 ) A subacute fluoxetine-desipramine combination ( 10-10 mg/kg ) was administered in rats that were pre-treated with chronic-desipramine ( 10 mg/kg per day , 14 days ) .
+intervention	( 3 ) NA-system-mediated interactions were further examined by combining the alpha ( 2 ) - receptor agonist clonidine ( 5 , 10 , 20 , 200 microg/kg ) with 10 mg/kg fluoxetine .
+other	( 1 )
+outcome	Long-term treatment with either fluoxetine or desipramine does not modify the behavioural response produced by their subacute administration .
+outcome	( 2 ) In contrast , whereas subacute-milnacipran increases climbing solely , chronic-milnacipran produces greater anti-immobility effects and increases both climbing and swimming behaviours .
+outcome	Similarly , the fluoxetine-desipramine combination produces climbing solely , but increases both climbing and swimming behaviours in animals pre-treated with chronic-desipramine .
+outcome	Chronic but not subacute-mirtazapine increases swimming behaviour .
+outcome	( 3 ) clonidine dose-dependently antagonizes fluoxetine-induced anti-immobility effects and swimming behaviour .
+outcome	Chronic enhancement of NA-transmission alters NA-system-mediated inhibition of 5-HT-induced behaviour in the FST , which may involve alpha ( 2 ) - receptors .
+
+###18381777
+background	Chronic relapsing multifocal osteomyelitis ( CRMO ) results in significant morbidity , especially in those with vertebral collapse .
+background	Symptomatic benefit with intravenous pamidronate ( PAM ) has been shown ; however , few studies have demonstrated radiological benefit .
+population	We describe clinical and radiological data on 7 pediatric cases of CRMO treated with PAM .
+intervention	Retrospective chart review on all children with CRMO treated with PAM .
+other	Response to PAM was measured by subjective reports and radiology including vertebral morphometry .
+other	Seven patients ( 1 male ) presented with bone pain at a median age of 8 years ( range 5-14 ) .
+other	Symptoms had been present for a median of 18 months ( range 11-51 ) before PAM therapy .
+outcome	All patients had involvement of multiple nonspinal sites , 5 children had spinal involvement with vertebral fractures , and 5 had joint involvement .
+outcome	Six cases had symptomatic improvement within 6 months of starting PAM , which was sustained during PAM therapy ( median 26 mo , range 6-41 ) and persisted in the 4 cases who had ceased treatment for the duration of followup ( 27 mo , range 18-51 ) .
+outcome	The least benefit was seen in the 3 cases with synovial joint involvement .
+outcome	The 3 cases with spinal radiological followup showed modeling of vertebral fractures and in one patient improvement in kyphosis .
+outcome	No radiological improvement in nonspinal lesions was seen .
+outcome	PAM therapy was associated with symptomatic improvement and vertebral modeling in children with CRMO .
+
+###9697089
+background	A study was undertaken of 46 patients ( 19 cervical and 27 lumbar ) admitted to an inpatient rehabilitation unit following surgical decompression for myelopathy or cauda equina syndrome resulting from spinal stenosis ( SS ) .
+background	Individuals with SS represented 16 percent of all spinal cord injury ( SCI ) admissions .
+outcome	When compared to patients with traumatic SCI , patients with SS were significantly ( t-test , p < .01 ) older ( mean age 68 versus 39 years ) , more frequently retired/unemployed ( 89 percent versus 43 percent ) , more often married ( 57 percent versus 36 percent
+outcome	Significant ( p < .01 ) Functional Independence Measurement ( FIM ) changes for the SS patients were noted after rehabilitation in the categories of self-care , sphincter control and mobility/locomotion .
+outcome	Additionally , outcome comparisons with a group of traumatic SCI patients who had similar motor function revealed similar lengths of stay , discharge FIM scores and discharge-to-community rates .
+outcome	This study suggests that individuals with weakness secondary to SS represent a significant proportion of individuals with SCI , make significant functional gains following inpatient rehabilitation and can achieve functional outcomes similar to those of tra
+
+###15352592
+background	Brachial plexus injuries ( BPIs ) are often devastating events that lead to upper-extremity paralysis , rendering the limb a painful extraneous appendage .
+background	Fortunately , there are several nerve repair techniques that provide restoration of some function .
+background	Although there is general agreement in the medical community concerning which patients may benefit from surgical intervention , the actual repair technique for a given lesion is less clear .
+other	The authors sought to identify and better define areas of agreement and disagreement among experienced peripheral nerve surgeons as to the management of BPIs .
+other	The authors developed a detailed survey in two parts one part addressing general issues related to BPI and the other presenting four clinical cases .
+population	The survey was mailed to 126 experienced peripheral nerve physicians and 49 ( 39 % ) participated in the study .
+other	The respondents represent 22 different countries and multiple surgical subspecialties .
+other	They performed a mean of 33 brachial plexus reconstructions annually .
+other	Areas of significant disagreement included the timing and indications for surgical intervention in birth-related palsy , treatment of neuroma-in-continuity , the best transfers to achieve elbow flexion and shoulder abduction , the use of intra - or extraplexal donors for motor neurotization , and the use of distal or proximal coaptation during nerve transfer .
+outcome	Experienced peripheral nerve surgeons disagree in important ways as to the management of BPI .
+outcome	The decisions made by the various treating physicians underscore the many areas of disagreement regarding the treatment of BPI , including the diagnostic approach to defining the injury , timing of and indications for surgical intervention in birth-related
+
+###16598332
+background	To identify reports of randomized trials by handsearching 2 Bahrain medical journals , which are indexed in the biomedical database EMBASE and to determine any added value of the handsearching by comparing the reports found by handsearching with what would
+other	All issues of the Bahrain Medical Bulletin ( BMB ) ( 1979-2004 ) and the Journal of the Bahrain Medical Society ( JBMS ) ( 1989-2004 ) were handsearched in February 2005 for reports of RCTs or Controlled Clinical Trials ( CCTs ) , according to Cochrane eligibility criteria .
+other	Out of 395 articles in BMB we found reports of 12 RCTs and 4 CCTs .
+other	Distribution by country of corresponding author Jordan ( 4 RCTs , one CCT ) , Bahrain ( one RCT , one CCT ) , India ( 3 RCTs , one CCT ) , Kuwait ( one CCT ) , Saudi Arabia ( 2 RCTs ) , USA/Bahrain ( one RCT ) , and Oman ( one RCT ) ; and by specialty Anesthesia ( 8 ) , Surgery ( 1 ) Pediatrics ( 1 ) , Radiotherapy ( 1 ) , Community Medicine ( 1 ) , Sports Medicine ( 1 ) , Obstetrics/Gynecology ( 3 ) .
+other	The Journal of the Bahrain Medical Society included reports of 14 RCTs and 3 CCTs , out of 97 articles .
+other	Distribution by country of corresponding author Jordan ( 9 RCTs , 2 CCTs ) , Bahrain ( 3 RCTs ) , Egypt ( one RCT ) , Kuwait ( one RCT ) , and Saudi Arabia ( one RCT ) ; and by specialty Anesthesia ( 7 ) , General Surgery ( 3 ) , Obstetrics/Gynecology ( 1 ) , Radiotherapy ( 1 ) , Pediatrics ( 1 ) , Orthopaedic Surgery ( 1 ) , Education ( 1 ) Ear Nose and Throat ( 1 ) Ophthalmology ( 1 ) .
+outcome	Overall , of the 33 reports of trials found by handsearching both journals , only 23 were included in EMBASE of which only 6 had been indexed with the term RCT .
+outcome	Of the 23 reports of trials included in EMBASE , 16 had been identified in the Collaboration s systematic search of EMBASE .
+outcome	Two reports of trials could have been retrieved by this search but there was insufficient information in the title and abstract to code these as trials .
+other	The EMBASE records for the remaining 5 reports of trials did not contain terms currently used by The Cochrane Collaboration to identify reports of randomized trials in this database .
+outcome	The handsearching of these journals will help minimize publication bias by locating randomized trials not previously identified and , through their inclusion in the Cochrane Central Register of Controlled Trials ( CENTRAL ) in The Cochrane Library , will ensu
+
+###12503885
+background	To study the effect of the presence of coarse granules in the perivitelline space ( PVS ) of oocytes on embryonic development , and on implantation and pregnancy rates in IVF .
+population	The study population included 24 patients treated during the period 1995-2000 .
+other	The majority or all of their oocytes exhibited repeatedly coarse granulation in the PVS .
+other	Clinical and laboratory cycle characteristics of their 65 IVF-ICSI cycles and the resulting implantation and pregnancy rates were compared to a matched control group of 65 IVF - ICSI cycles without granulation in the PVS .
+other	A total of 623 oocytes were retrieved , 418 oocytes fertilized , and 246 embryos were transferred in the study group .
+outcome	No difference was detected between the study and control group with regard to patients ' clinical data , IVF cycle characteristics , mean number of oocytes retrieved and fertilized , and mean number of embryos transferred .
+outcome	Only seven pregnancies were achieved in the study group , leading to pregnancy and implantation rates of 10.7 and 5.7 % , respectively .
+outcome	Pregnancy and implantation rates were significantly higher in the control group of matched IVF-ICSI cycles without granulation in the PVS ( 32.5 and 11.5 % , respectively ) .
+outcome	The presence of coarse granules in the PVS correlates with low implantation and pregnancy rates in IVF-ICSI cycles and might be regarded as a distinct entity , part of the yet poorly defined condition of `` egg factor infertility . ''
+
+###7180202
+population	Since 1974 , 56 children with a neuropathic bladder were selected for intermittent or indwelling catheterisation .
+background	Indications for catheterisation included incontinence , hydronephrosis , and/or difficulty with bladder expression .
+outcome	Good results were obtained in 70 % of girls and 50 % of boys .
+outcome	The catheter was abandoned in 7 children , mainly because of lack of cooperation from the parents .
+outcome	Deterioration occurred only in those children with both hydronephrosis and vesico-ureteric reflux prior to catheterisation .
+outcome	Of the latter group of children , 33 % suffered upper tract deterioration , and we now consider vesico-ureteric reflux to be a relative contra-indication to catheterisation , except in those children with severe disabilities and deformities , in whom antireflu
+outcome	Indwelling penile catheters should not be recommended for boys , but catheterisation via a perineal urethrostomy may prove helpful in those unable either to catheterise themselves intermittently or to wear a penile appliance .
+
+###14583986
+background	Injury in the home is extremely common , accounting for around a third of all injuries .
+background	The majority of injuries of children under five and people aged 75 and over occur at home .
+background	Multi-factorial injury prevention interventions have been shown to reduce injuries in the home .
+background	However , few studies have focussed specifically on the impact of physical adaptations to the home environment and the effectiveness of such intervention needs to be ascertained .
+intervention	To review the evidence for the effect on injuries of modification of the home environment with a primary focus on interventions to reduce physical hazards .
+other	We searched the following databases APId , ASSIA , British Nursing Index , CINAHL , Cochrane Library databases , Dissertation Abstracts , EMBASE , HealthSTAR , ICONDA , ISI Science ( and Social Science ) Citation Index , MEDLINE , National Research Register , PREMEDLINE , SIGLE and Urbadisk .
+other	Conference proceedings and reference lists were scanned .
+other	Experts in the field and trialists were contacted .
+other	Searches were not restricted to English language .
+other	Handsearching of relevant journals was not conducted .
+other	Randomised controlled trials , non-randomised controlled trials , controlled before-and-after studies and interrupted time series studies .
+other	All abstracts were screened by two reviewers for relevance , outcome and design .
+other	Two reviewers independently evaluated methodological quality and extracted data from each eligible study .
+other	We found 28 published trials and one unpublished study .
+outcome	Trials were not sufficiently similar to allow for the combination of data by statistical analyses , so this review takes a narrative form .
+outcome	Studies were divided into three groups based on the primary population sample : children , older people and the general population .
+outcome	None of the 11 childhood studies demonstrated a reduction in injuries that might have been due to environmental adaptation in the home .
+outcome	One study reported a reduction in injuries and in hazards but the two could not be linked .
+outcome	The majority of studies used hazard reduction as the outcome .
+outcome	Of the 15 studies in older people , none demonstrated a reduction in injuries due to hazard reduction , although two demonstrated a reduction in falls that could be due to hazard reduction .
+outcome	In the mixed age group there were two trials ; neither demonstrated an effect on injuries .
+outcome	There is insufficient evidence to determine the effects of interventions to modify environmental home hazards .
+outcome	Further interventions to reduce hazards in the home should be evaluated by adequately designed randomised controlled trials measuring injury outcomes .
+outcome	Recruitment of large study samples to measure effect may be a major consideration for future trials .
+
+###16970638
+background	To determine whether nursing home residents with urinary incontinence ( UI ) have worse quality of life ( QoL ) than continent residents , whether the relationship between UI and QoL differs across strata of cognitive and functional impairment , and whether cha
+study design	Retrospective cohort study using a Minimum Data Set ( MDS ) database to determine cross-sectional and longitudinal ( 6 month ) associations between UI and QoL .
+other	All Medicare - or Medicaid-licensed nursing homes in Kansas , Maine , Mississippi , New York , and South Dakota during 1994 to 1996 .
+population	All residents aged 65 and older , excluding persons unable to void or with potentially unstable continence or QoL status ( recent nursing home admission , coexistent delirium , large change in functional status , comatose , near death ) .
+other	UI was defined as consistent leakage at least twice weekly over 3 months and continence as consistent dryness over 3 months .
+other	QoL was measured using the validated MDS-derived Social Engagement Scale .
+outcome	Of 133,111 eligible residents , 90,538 had consistent continence status , 58,850 ( 65 % ) of whom were incontinent .
+outcome	UI was significantly associated with worse QoL in residents with moderate cognitive and functional impairment .
+outcome	New or worsening UI over 6 months was associated with worse QoL ( odds ratio = 1.46 , 95 % confidence interval = 1.36-1 .57 ) and was second only to cognitive decline and functional decline in predicting worse QoL .
+outcome	This is the first study to quantitatively demonstrate that prevalent and new or worsening UI decreases QoL even in frail , functionally and cognitively impaired nursing home residents .
+outcome	These results provide a crucial incentive to improve continence care and quality in nursing homes and a rationale for targeting interventions to those residents most likely to benefit .
+
+###3325554
+background	The surgical treatment of children with spastic cerebral palsy should be directed at all the problems of the child rather than focusing on one problem area at a time .
+background	Although the difficulties encountered by these children can be divided into separate areas for discussion , treating one problem without consideration of the others will result in unnecessary additional hospitalization for subsequent operations .
+background	In addition , since each joint is intimately linked to another , surgical treatment of one joint problem may lead to worsening of an adjacent joint deformity unless it too is addressed .
+background	Thus , the surgical care of the lower extremities in spastic cerebral palsy requires that the entire patient be evaluated and all necessary surgical procedures be coordinated .
+
+###18221987
+background	The diagnosis of rheumatoid arthritis ( RA ) is sometimes difficult to establish early in the disease process , particularly in the absence of its classic hallmarks .
+background	Our aim was to compare the practical usefulness of magnetic resonance imaging ( MRI ) of the hand versus anticyclic citrullinated peptide ( anti-CCP ) antibody testing to confirm the diagnosis of clinically suspected RA in the absence of rheumatoid factor ( RF
+population	We prospectively included patients with early inflammatory arthritis and strong clinical suspicion of RA , in whom initial complementary tests ( RF and radiographs of hands , wrists , and feet ) did not provide unequivocal confirmation of the diagnosis .
+intervention	In all patients , anti-CCP antibodies were assessed and contrast-enhanced MRI of the most affected hand was performed according to a specifically designed protocol .
+other	The MRI criterion for the diagnosis of RA was either the presence of synovitis with bone erosions or bone marrow edema , which is currently considered to be a forerunner of erosions .
+outcome	In the 40 patients ( 28 women ) , the mean age at diagnosis was 54 + / - 6 years and the median duration of symptoms was 4 + / - 2.6 months ( range 1.5 to 12 ) .
+outcome	Final diagnoses at 1-year follow-up were RA in 31 patients , undifferentiated arthritis in 7 ( 5 self-limiting ) , and psoriatic arthropathy ( PsA ) and antisynthetase syndrome in 1 patient each .
+outcome	Anti-CCP antibodies were positive only in 7 patients , all of whom were finally diagnosed with RA .
+outcome	The prevalence of anti-CCP positivity in our series of seronegative RA patients was thus 23 % ( 7/31 ) ; in these patients the anti-CCP antibodies had a specificity of 100 % ( 95 % CI : 71.7 to 100 ) and sensitivity of 23 % ( 95 % CI : 9.6 to 41.1 ) .
+outcome	Use of the MRI criterion led to the correct diagnosis in 100 % of patients with RA and to false-positive results ( 1 with PsA and 1 with antisynthetase syndrome ) .
+outcome	The MRI criterion had a specificity of 78 % ( 95 % CI : 40.0 to 97.2 ) and sensitivity of 100 % ( 95 % CI : 90.8 to 100 ) for identification of seronegative RA .
+outcome	Although the tests are not mutually exclusive , in our experience MRI is more helpful than anti-CCP antibody determination in confirming the diagnosis of clinically suspected early RA in patients in whom the diagnosis can not be confirmed using conventional
+
+###11831871
+background	A multicascade of leukocyte-endothelial cell interactions is involved in the trafficking of inflammatory lymphocytes into tissue .
+background	The primary contact between leukocytes and endothelium is mediated by selectins .
+background	Ligands for P-Selectin are preferentially expressed on Th1 cells and thereby allow migration of these inflammatory cells through the vessel wall .
+population	Since a peripheral and local Th1-type cytokine profile is present in spontaneous human abortion ( SA ) , opposed by a Th2 dominant situation in normal pregnancies ( NP ) , we investigated ( 1 ) the phenotype of peripheral Th1 cells by flow cytometry , as well as t
+other	We observed enhanced production of IFN-gamma and TNF-alpha in CD8 ( + ) , CD3 ( + ) , and CD56 ( + ) blood cells , as well as an increase in the number of CCR5 ( + ) cells in patients suffering from SA compared to those with NP .
+outcome	No difference was detectable with respect to the serum levels of the two cytokines .
+outcome	Using IHC methods , we observed increased staining intensity of P-Selectin ( + ) vessels in samples of SA patients .
+outcome	E-Selectin was only weakly expressed in decidual endothelial cells , with no difference between NP and SA .
+outcome	In SA samples , E-Selectin ( + ) stromal cells were exclusively present .
+outcome	We further detected increased numbers of decidual CD8 ( + ) , CD3 ( + ) , CCR5 ( + ) , and CD56 ( + ) cells in SA patients .
+outcome	We propose that Th1 lymphocyte migration into decidua is enhanced in SA due to upregulated P-Selectin expression in decidual vessels .
+outcome	This increase of Th1-producing lymphocytes might be involved in the rejection of trophoblasts .
+
+###17702875
+background	Emerging evidence indicates an association between cognitive function and physical performance in late life .
+background	This study examines the relationship between cognitive function and subsequent gait speed decline among high-functioning older adults .
+other	Measures of global cognitive function ( Modified Mini Mental State Examination [ 3MS ] ) and executive control function ( ECF ) ( a clock drawing task [ CLOX 1 ] and the 15-item Executive Interview [ EXIT 15 ] ) were obtained in the Health , Aging , and Body Composition Study in 1999-2000 .
+other	Gait-speed ( meters/second ) was assessed over 20 meters at usual pace .
+other	Using a mixed model , we assessed the relationship between baseline cognitive function and gait-speed change over 3 years .
+population	Two thousand , three hundred forty-nine older adults ( mean age 75.6 + / - 2.9 years ) completed the assessments .
+outcome	After adjustment for baseline gait speed , a 1-standard-deviation ( SD ) lower performance on each cognitive test was associated with greater gait-speed decline over 3 years : 0.016 m/s for the 3MS ( SD = 8.1 ) , 0.009 m/s for CLOX 1 ( SD = 2.4 ) , and 0.012 m/s fo
+outcome	After adjustment for comorbidities , the effect size was attenuated for 3MS and CLOX 1 , and the association for EXIT 15 was no longer significant .
+outcome	Depression score was most strongly associated with the EXIT 15 effect reduction .
+outcome	Global and executive cognitive functions predict declines in gait speed .
+outcome	The association of ECF with gait speed decline is attenuated by comorbid conditions , particularly depression .
+outcome	Elucidation of the mechanisms underlying these associations may point to new pathways for the treatment of physical decline associated with diminished cognitive function .
+
+###15979722
+background	Balancing risks and benefits of fish consumption is now a high visibility public health topic .
+background	Many studies identify health benefits of eating fish , both for prenatal development and adult cardiovascular conditions , partly attributed to omega-3 ( n-3 ) polyunsaturated fatty acids or PUFAs ) .
+background	Many reports raise concerns about methylmercury and polychlorinated biphenyl effects on the developing fetal brain ( although adults , too , can manifest methylmercury effects ) .
+background	Most reports and advisories focus on recreational or subsistence fish , but the vast majority of people obtain most or all of their fish from commercial sources .
+population	Our analysis of the nine most common fish in New Jersey markets , yielded a weighted average methylmercury concentration of 0.23 ug/g ( ppm wet weight ) .
+background	There are great disparities in the amount and distribution of both PUFAs and contaminants ) in different fish species .
+background	Recognizing that both benefits and harm must be related to dose , we propose a compound dose-response curve , currently based on limited data , to identify a zone of benefit , above the benefit threshold and below the harm threshold .
+background	The duration of pregnancy and birth weight improve at a benefit threshold of about 8-15 g/day maternal fish intake .
+outcome	Meta-analyses reveal adult cardiovascular benefits around 7.5-22 .5 g/day bracket ( assuming an 8 ounce/227 g typical meal ) , yielding a midpoint also at 15 g/day , but this is an artifact of the intake stratification .
+outcome	Benefit asymptotes are harder to extract , but are above 45 g/day , and in some studies exceed 100g/day .
+outcome	Using the EPA Reference Dose of 0.1 ug/kg day as a methylmercury threshold , The fish intake threshold for harm converts to 27 g/day ( for a selection of common commercial fish averaging 0.23 ppm MeHg ) to 65 g/day for someone choosing fish low in MeHg ( 0.1
+outcome	However , these are worst case thresholds since the RfD includes uncertainty factors .
+outcome	Some people eat much more than 65 g/day .
+outcome	The shape of the dose-benefit and dose-harm curves require better data for estimating thresholds and asymptotes , which will impact the composite curve .
+outcome	We propose this approach clarifies the kinds of data needed to improve risk communication on `` what should I eat '' .
+outcome	Benefits from fish consumption are confounded by socioeconomic class and/or by the avoidance of more harmful foods that fish replaces , which may be as important a benefit mechanism as the PUFA content .
+outcome	Additional studies with better dose-reconstruction are needed and large scale intervention studies are desirable .
+
+###11535963
+background	Osteoporosis is a progressive skeletal disease , which in many cases remains silent and asymptomatic until a fracture occurs .
+background	Vertebral fractures are the earliest and most common osteoporotic fractures .
+background	The prevalence of vertebral fractures increases steadily with age , ranging between 20 % for 50-year-old postmenopausal women to 64.5 % for older women .
+background	The majority of vertebral fractures are not connected with severe trauma , and only one in three is diagnosed clinically .
+background	Usually vertebral fractures are associated with such clinical symptoms as back pain , posture change , loss of height , functional impairment , disability , and diminished quality of live .
+background	Women with the most severe vertebral fractures are the most likely to incur further fractures , with as much as 3.4 times the risk of hip fracture , and 12.6 times the risk of new vertebral fractures .
+background	Almost 20 % of women will experience another fracture within 1 year after a vertebral fracture .
+background	Vertebral fractures are accompanied by increased mortality .
+background	The relative risk of death following vertebral fracture is almost 9 times higher .
+background	The most important purpose of osteoporosis management in postmenopausal women is prevention of the first vertebral fracture .
+background	Raloxifene ( Evista ) is the only SERM approved by the American FDA for the treatment and prevention of osteoporosis .
+background	It is the first compound with selective estrogen agonist activity in bone and in the cardiovascular system , but with estrogen antagonist activity or no activity in reproductive tissues and breast .
+outcome	Raloxifene reduces the risk of positive estrogen receptor breast cancer , decreases total cholesterol and LDL cholesterol , increases HDL cholesterol , does not increase the risk of endometrial cancer or cause bleeding and spotting .
+outcome	After 3 years of treatment Raloxifene reduces the risk of first vertebral fracture by 55 % .
+outcome	The fracture risk within one year is reduced by as much as 68 % .
+outcome	Continued observation has proved its sustained efficacy in the further reduction of fracture risk by 49 % in the fourth year .
+outcome	Raloxifene treatment does not change the physiological structure of bone quality and does not cause fibrosis , osteomalacia or other toxic effects .
+
+###7619104
+background	To assess the prevalence of urinary incontinence in New Zealand women of European , Maori and Pacific Island descent aged 18 years and over .
+other	A questionnaire , designed to be self administered , was sent to a group of 1028 women selected at random from the electoral roll in central Wellington .
+other	Incontinence was defined as any involuntary loss of urine .
+other	If present , details were sought regarding the occurrence , type , and severity of the incontinence so that the prevalence and nature of the problem within ethnic groups could be determined .
+outcome	The prevalence for Maori women ( 46.8 % ) was significantly greater than for either Pacific Island ( 29.2 % ) or European women ( 31.2 % ) ( chi 2 = 14.02 , p = 0.001 ) .
+outcome	Increasing age , and parity were associated with increasing prevalence of incontinence for all ethnic groups .
+outcome	Of the incontinent women , 9 % were continually incontinent , 28 % once or more daily , and 37 % more than twice monthly .
+outcome	A further 26 % were incontinent less than twice monthly .
+outcome	The most reported type of incontinence was stress incontinence ( 48 % of incontinent women ) , with 27 % reporting urge incontinence , and 21 % a mixed picture of stress and urge .
+outcome	There was no significant difference in the frequency of these symptoms between the different ethnic groups .
+outcome	Fifty per cent of incontinent women reported wanting help for their urinary problems , but only one third had sought medical assistance , with many regarding incontinence as a normal occurrence .
+outcome	Urinary incontinence is common in New Zealand women irrespective of ethnic group .
+outcome	The low proportion of women seeking medical assistance emphasises the need for much greater awareness and public education of what is largely a treatable clinical problem .
+background	Urinary incontinence is estimated to affect more than one quarter of the female population .
+background	The prevalence varies according to different age groups , and although it is recognised that incontinence is more common in the elderly , a significant number are young with nearly 20 % of female children experiencing episodes of urinary leakage .
+background	The medical , personal and social impact of urinary incontinence is substantial , but surprisingly it is largely ignored , both by women with the condition , and by those providing health services to them such that it has been described as ` the hidden epidemi
+background	In New Zealand , research has been carried out on the prevalence of urinary incontinence and reasons for not seeking treatment in the European community , but the other major ethnic groups in New Zealand ( Maori and Pacific Island ) have not been investigated
+background	The aim of this study was to assess the prevalence of urinary incontinence in these ethnic groups and to determine any differences to the prevalence of incontinence in European women in a similar socioeconomic environment .
+background	In addition , it was hoped to obtain some understanding of the attitudes of the women in each group to incontinence and their perception of the currently available treatments and medical services .
+
+###14671048
+background	We have used serial visual analogue scores to demonstrate disturbances of the appetite profile in dialysis patients .
+background	This is potentially important as dialysis patients are prone to malnutrition yet have a lower nutrient intake than controls .
+background	Appetite disturbance may be influenced by accumulation of appetite inhibitors such as leptin and cholecystokinin ( CCK ) in dialysis patients .
+population	Fasting blood samples were drawn from 43 controls , 50 haemodialysis ( HD ) and 39 peritoneal dialysis ( PD ) patients to measure leptin and CCK .
+other	Hunger and fullness scores were derived from profiles compiled using hourly visual analogue scores .
+other	Nutrient intake was derived from 3 day dietary records .
+outcome	Fasting CCK was elevated for PD ( 6.73 + / - 4.42 ng/l vs control 4.99 + / - 2.23 ng/l , P < 0.05 ; vs HD 4.43 + / - 2.15 ng/l , P < 0.01 ) .
+outcome	Fasting CCK correlated with the variability of the hunger ( r = 0.426 , P = 0.01 ) and fullness ( r = 0.52 , P = 0.002 ) scores for PD .
+outcome	There was a notable relationship with the increase in fullness after lunch for PD ( r = 0.455 , P = 0.006 ) .
+outcome	When well nourished PD patients were compared with their malnourished counterparts , CCK was higher in the malnourished group ( P = 0.004 ) .
+outcome	Leptin levels were higher for the dialysis patients than controls ( HD and PD , P < 0.001 ) with pronounced hyperleptinaemia evident in some PD patients .
+outcome	Control leptin levels demonstrated correlation with fullness scores ( e.g. peak fullness , r = 0.45 , P = 0.007 ) but the dialysis patients did not .
+outcome	PD nutrient intake ( energy and protein intake , r = -0.56 , P < 0.0001 ) demonstrated significant negative correlation with leptin .
+outcome	Increased CCK levels appear to influence fullness and hunger perception in PD patients and thus may contribute to malnutrition .
+outcome	Leptin does not appear to affect perceived appetite in dialysis patients but it may influence nutrient intake in PD patients via central feeding centres .
+
+###8664717
+background	OBJECTIVE -- To evaluate whether specialist nurse visits enhance the social integration and perceived health of patients with stroke or alleviate stress in carers in longer term stroke care .
+study design	DESIGN -- Stratified randomised controlled trial ; both groups assessed at time of recruitment and at 3 , 6 , and 12 months .
+other	SETTING -- Patients with disability related to new stroke who lived in their own homes in the Bradford Metropolitan District .
+population	SUBJECTS -- 240 patients aged 60 years or over , randomly allocated to control group ( n = 120 ) or intervention group ( n = 120 ) .
+intervention	Intervention -- Visits by specialist outreach nurses over 12 months to provide information , advice , and support ; minimum of six visits during the first six months .
+intervention	The control group received no visits .
+other	MAIN OUTCOME MEASURES -- The Barthel index ( functional ability ) , the Frenchay activities index ( social activity ) , the Nottingham health profile ( perceived health status ) .
+other	Stress among carers was indicated by the general health questionnaire-28 ( 28 items ) .
+other	The nurses recorded their interventions in trial diaries .
+outcome	RESULTS -- There were no significant differences in perceived health , social activities , or stress among carers between the treatment and control groups at any of the assessments points .
+outcome	A subgroup of mildly disabled patients with stroke ( Barthel index 15-19 ) had an improved social outcome at six months ( Frenchay activities index , Median difference 3 ( 95 % confidence interval 0 to 6 ; P = 0.03 ) and for the full 12 months of follow up ( analy
+outcome	No proved strategy yet exists that can be recommended to address the psychosocial difficulties of patients with stroke and their families .
+
+###3515292
+background	A hypothesis is presented concerning the neuronal mechanisms which subserve the sympathetically maintained pains such as causalgia and reflex sympathetic dystrophy .
+background	The hypothesis rests on two assumptions : that a high rate of firing in spinal wide-dynamic-range ( WDR ) or multireceptive neurons results in painful sensations ; and that nociceptor responses associated with trauma can produce long-term sensitization of WDR
+background	The hypothesis states that chronic sympathetically maintained pains are mediated by activity in low-threshold , myelinated mechanoreceptors , that this afferent activity results from sympathetic efferent actions upon the receptors or upon afferent fibers en
+background	This hypothesis is based on known characteristics of these neuronal populations studied in experimental animals and on the observed sensory disturbances reported in patients successfully treated with sympathetic blocks .
+background	This hypothesis does not require nerve injury or dystrophic tissue .
+background	It explains both the continuous pain and the allodynia that are common to these syndromes and their abolition by sympathetic block .
+background	Specific changes are proposed in the diagnosis and treatment of post-traumatic pains .
+
+###8611124
+background	Colorectal cancer is an important disease in the Australian community .
+background	Whilst there has been much discussion about the appropriate management of local disease , particularly with respect to the issue of adjuvant therapy , there has been relatively little local discussion of treatment options in metastatic colorectal cancer .
+background	The critical principles underlying treatment in this setting are briefly outlined in the present article , indicating wherever possible what options could be considered standard , and based on the available literature , which approaches must still be conside
+outcome	Overall , the results of treatment in this group of patients remain poor .
+outcome	Further clinical trials are required to address the issues affecting patients with metastatic colorectal cancer .
+
+###17197651
+background	With almost a million people dying by suicide worldwide each year , reducing the rate of suicidal behaviour is a priority in many countries .
+intervention	To examine whether additional psychosocial interventions following an episode of self-harm reduce the likelihood of subsequent suicide .
+population	We conducted a systematic review and meta-analysis of data from randomised controlled trials of interventions for people following self-harm .
+other	Likelihood of suicide was compared by calculating the pooled root difference in suicide rate with 95 % confidence intervals .
+outcome	We obtained suicide data from 18 studies with a total population of 3918 .
+outcome	Eighteen suicides occurred among people offered active treatment and 19 among those offered standard care ( pooled root difference in suicide rate 0.0,95 % CI -0.03 to 0.03 ) .
+outcome	The overall rate of suicide among people participating in trials was similar to that reported in observational studies of people who self-harm .
+outcome	Results of this meta-analysis do not provide evidence that additional psychosocial interventions following self-harm have a marked effect on the likelihood of subsequent suicide .
+
+###9183127
+background	To investigate heritability and continuum versus categorical approaches to attention-deficit hyperactivity disorder ( ADHD ) , using a large-scale twin sample .
+population	A cohort of 1,938 families with twins and siblings aged 4 to 12 years , recruited from the Australian National Health and Medical Research Council Twin Registry , was assessed for ADHD using a DSM-III-R-based maternal rating scale .
+other	Probandwise concordance rates and correlations in monozygotic and dizygotic twins and siblings were calculated , and heritability was examined using the De Fries and Fulker regression technique .
+outcome	There was a narrow ( additive ) heritability of 0.75 to 0.91 which was robust across familial relationships ( twin , sibling , and twin-sibling ) and across definitions of ADHD as part of a continuum or as a disorder with various symptom cutoffs .
+outcome	There was no evidence for nonadditive genetic variation or for shared family environmental effects .
+outcome	These findings suggest that ADHD is best viewed as the extreme of a behavior that varies genetically throughout the entire population rather than as a disorder with discrete determinants .
+outcome	This has implications for the classification of ADHD and for the identification of genes for this behavior , as well as implications for diagnosis and treatment .
+
+###16627318
+background	Doctors need to identify and understand the professional behaviours of both themselves and others .
+background	In order for students to think critically about these issues we encouraged them to use the tenets of the General Medical Council 's Duties of a Doctor as a framework in which to reflect on the actions of healthcare professionals at work .
+background	Although the critical incident technique is a well-known process for encouraging reflection , little is known about its usefulness for assessment purposes in this setting .
+intervention	We aimed to discover the validity , feasibility and educational impact of the critical incident as an assessment method for first year students undertaking guided reflection in the context of their first exposure to multi-professional health and social car
+population	First year medical students submitted two critical incidents they had observed during multi-professional health and social care attachments and an evaluation of their experiences .
+outcome	Students engaged in the reflective cycle on the professional behaviours of others providing evidence of a varied range of situations .
+outcome	With adequate preparation , junior students are able to reflect on social and healthcare experiences using the Duties of a Doctor as a framework .
+outcome	Critical incidents are a valid and feasible method for assessing students ' reflections on professionalism , with good educational impact .
+
+###8567768
+background	The objective of this study was to explore the effect of cotreatment with recombinant human growth hormone ( GH ) , gonadotrophin-releasing hormone agonist ( GnRHa ) and human menopausal gonadotrophin ( HMG ) for induction of ovulation in women with clomiphene r
+population	It was designed as a randomized , double-blind , placebo controlled trial in which 30 women with anovulation associated with PCOS who were resistant to clomiphene all received DTRP6-LHRH ( Decapeptyl microcapsules , 3.75 mg , i.m. ) and , 2 weeks later , HMG in a
+intervention	From day 1 of HMG therapy , patients were randomized to receive either human GH ( Norditropin , 12 IU/day , i.m. , for 7 days ) or placebo .
+other	The number of ampoules , duration of treatment and daily effective dose of HMG required to achieve ovulation , serum oestradiol concentrations and number of follicles induced , ovulation and pregnancy rates , serum insulin and insulin-like growth factor-I ( IGF-I ) concentrations were measured .
+outcome	There were no significant differences between growth hormone and placebo groups in any of the outcomes measured , other than a growth hormone induced increase in serum insulin and IGF-I levels .
+outcome	We conclude that although GH kinetics are abnormal and GH pituitary reserves generally low in women with PCOS , adjuvant GH treatment to GnRHa/HMG does not influence follicular development or sensitivity in response to gonadotrophins and that it does not s
+
+###16365773
+background	Despite recent advances using more conservative approaches , standard classical radical neck dissection is still one of the most frequently performed procedures in head and neck cancer patients who have advanced metastatic neck disease .
+background	The trapezius muscle paralysis following division of the spinal accessory nerve results in severe pain and cosmetic disturbance related to malalignment of the shoulder joint .
+other	The objective of this study is to report our results with a newly developed orthosis to prevent and correct shoulder dysfunction following standard radical neck dissection .
+population	Thirty-four patients who underwent standard radical neck dissection as a part of their surgical treatment from 1997-2002 were rehabilitated by the shoulder orthosis .
+other	Beginning 2 weeks after surgery , the patients were allowed to use their orthosis .
+other	By using a standard questionnaire , the pain and activity scores were recorded at the 1st , 3rd , 6th and 12th months postoperatively .
+other	Six patients were excluded from the study , of whom two succumbed to their disease and four discontinued the use of the orthosis .
+outcome	Of 28 patients included in the study , 20 ( 72 % ) were completely pain free within 3 months following the surgery .
+outcome	Four patients ( 14 % ) noted their pain level as tolerable , and four patients ( 14 % ) reported no considerable gain in the pain threshold and/or physical activity levels .
+outcome	Despite the fact that the active abduction range increased only 5 to 20 degrees , the relief of pain and improved malalignment of the scapula and consequently clavicle and humerus led to functional gains , which increased the patients ' endurance .
+outcome	At the end of the study , 23 patients ( 82 % ) were able to return to their previous jobs or activity levels .
+outcome	Current preliminary reports suggest that this orthosis can be recommended to prevent significant disability in patients with trapezius palsy due to ablative cancer surgery or other reasons .
+
+###17610352
+background	We previously demonstrated that fenofibrate , a peroxisome proliferator-activated receptor alpha ( PPARalpha ) agonist , reduced the neurological deficit , the edema and the cerebral lesion induced by traumatic brain injury ( TBI ) .
+other	In order to elucidate these beneficial effects , in the present study , we investigated , in the same TBI model , fenofibrate 's effects on the inflammation and oxidative stress .
+population	Male Sprague Dawley rats were randomized in four groups : non-operated , sham-operated , TBI + vehicle , TBI + fenofibrate .
+intervention	TBI was induced by lateral fluid percussion of the temporoparietal cortex .
+intervention	Rats were given fenofibrate ( 50 mg/kg ) or its vehicle ( water containing 0.2 % methylcellulose ) , p.o. 1 and 6 h after brain injury .
+other	A neurological assessment was done 24 h after TBI , then rats were killed and the brain COX2 , MMP9 expression , GSx , GSSG levels were determined .
+other	The same schedule of treatment was used to evaluate the effect of fenofibrate on immunohistochemistry of 3NT , 4HNE and iNOS at 24 h post-injury .
+outcome	Our results showed that fenofibrate promotes neurological recovery by exerting anti-inflammatory effect evidenced by a decrease in iNOS , COX2 and MMP9 expression .
+outcome	In addition , fenofibrate showed anti-oxidant effect demonstrated by a reduction of markers of oxidative stress : loss of glutathione , glutathione oxidation ratio , 3NT and 4HNE staining .
+outcome	Our data suggest that PPARalpha activation could mediate pleiotropic effects and strengthen that it could be a promising therapeutic strategy for TBI .
+
+###15446533
+background	Claims for personal injury after whiplash injury cost the economy of the United Kingdom more than pound 3 billion per year , yet only very few patients have radiologically demonstrable pathology .
+background	Those sustaining fractures of the cervical spine have been subjected to greater force and may reasonably be expected to have worse symptoms than those with whiplash injuries .
+background	Using the neck disability index as the outcome measure , we compared pain and functional disability in four groups of patients who had suffered injury to the cervical spine .
+outcome	After a mean follow-up of 3.5 years , patients who had sustained fractures of the cervical spine had significantly lower levels of pain and disability than those who had received whiplash injuries and were pursuing compensation ( p < 0.01 ) , but had simil
+outcome	Functional recovery after neck injury was unrelated to the physical insult .
+outcome	The increased morbidity in whiplash patients is likely to be psychological and is associated with litigation .
+
+###12934024
+background	Previous studies on the treatment of rotator cuff tears in wheelchair-bound patients have concentrated on nonsurgical management .
+population	We conducted a retrospective review to determine the effectiveness of surgical repair of rotator cuff tears in spinal cord-injured patients .
+intervention	Five male patients with rotator cuff tears confirmed by physical examination and magnetic resonance imaging underwent rotator cuff repair .
+other	Two of eight shoulders were revisions .
+outcome	The patients were evaluated postoperatively with the American Shoulder and Elbow Surgeons Scoring System .
+outcome	These results were compared with preoperative functional assessment .
+outcome	Patients were given a subjective questionnaire to assess their overall experience .
+outcome	Postoperative range of motion improved in 6 of 8 shoulders .
+outcome	Strength was increased in 6 of 8 shoulders .
+outcome	Patients reported satisfaction with the results in 7 of 8 shoulders , and all 5 patients would recommend the procedure to other spinal cord injury patients .
+outcome	At recent follow-up , 7 of 8 shoulders returned to their preinjury level of function .
+outcome	Surgery for spinal cord injury patients with rotator cuff tears can improve their functional capability and autonomy while reducing their pain .
+outcome	Compliance with the demanding postoperative rehabilitation is essential ; therefore proper patient selection is crucial for optimal results .
+
+###16960096
+background	Few data exist about clinical , radiologic findings , clinical outcome , and its predictors in patients with spontaneous vertebral artery dissection ( sVAD ) .
+other	Clinical characteristics , imaging findings , 3-month outcomes , and its predictors were investigated in consecutive patients with sVAD .
+population	One hundred sixty-nine patients with 195 sVAD were identified .
+outcome	Brain ischemia occurred in 131 patients ( 77 % ; ischemic stroke , n = 114 , 67 % ; transient ischemic attack , n = 17 , 10 % ) .
+outcome	Three patients with ischemic stroke showed also signs of subarachnoid hemorrhage ( SAH ) ; 3 ( 2 % ) had SAH without ischemia .
+outcome	The 134 patients with brain ischemia or SAH had head and/or neck pain in 118 ( 88 % ) and pulsatile tinnitus in seven ( 5 % ) patients .
+outcome	The remaining 35 patients ( 21 % ) had isolated head and/or neck pain in 21 ( 12 % ) cases , asymptomatic sVAD in 13 ( 8 % ) , and cervical radiculopathy in one case ( 1 % ) .
+outcome	Location of sVAD was more often in the pars transversaria ( V2 ; 35 % ) or atlas loop ( V3 ; 34 % ) than in the prevertebral ( V1 ; 20 % ) or intracranial ( V4 ; 11 % ) segment ( P = 0.0001 ) .
+outcome	Outcome was favorable ( modified Rankin scale score 0 or 1 ) in 88 ( 82 % ) of 107 ischemic stroke patients with follow up .
+outcome	Two ( 2 % ) patients died .
+outcome	Low baseline National Institutes of Health Stroke Scale score ( P < 0.0001 ) and younger age ( P = 0.007 ) were independent predictors of favorable outcome .
+outcome	sVAD is predominantly located in the pars transversaria ( V2 ) or the atlas loop ( V3 ) .
+outcome	Most patients show posterior circulation ischemia .
+outcome	Favorable outcome is observed in most ischemic strokes and independently predicted by low National Institutes of Health Stroke Scale score and younger age .
+
+###8342345
+study design	The present study is a retrospective analysis of spinal fracture treatment with the Cotrel-Dubousset instrumentation technique .
+population	150 unstable injuries of the spine were treated with the CD implant at the University of Louisville -- Level I Trauma Center -- between February 1985 and March 1989 .
+other	There were 67 burst fractures , 48 compression fractures and 21 fracture dislocations , 8 flexion distraction fractures and 6 flexion rotation injuries .
+intervention	Ninety-three patients underwent anterior cord decompression and strut grafting followed by posterior CD instrumentation and posterolateral fusion .
+other	Fifty-seven patients had posterior CD instrumentation and fusion alone .
+outcome	No neurological deterioration after the procedure was observed , 33 patients improved neurologically .
+outcome	Hospital stay ranged between 7 and 60 days ( mean 20 days ) .
+outcome	114 patients had a minimum follow up of 6 months ( range 6-52 months ) .
+outcome	The mean follow up was 17.7 months .
+outcome	At final follow up 77.8 % of the patients had returned to work and 84.2 % of the patients were almost painfree .
+outcome	The mean loss of correction in the sagittal plane was 6.2 degrees ( range : 0 and 42 degrees ) at final follow up .
+outcome	As technical complications there were four hook cut outs ( 2.6 % ) of which two underwent reosteosynthesis and two did not effect the clinical or radiographic result .
+outcome	The high stability of the device provides a decreased risk of neurological deterioration , a decreased risk of posttraumatic kyphosis and early rehabilitation .
+
+###3628166
+population	Chicks , 8 days of age , were housed in a wind tunnel at temperatures from 12 to 28 C in increments of 4 C.
+intervention	The tunnel was equipped with a microswitch , an infrared bulb located above the switch , and a small electric fan controlled by a rheostat .
+intervention	Following learning , chicks were exposed at each temperature to air speeds of 0 , .5 , 1.0 , and 1.5 m/s according to a Latin-square design .
+outcome	Chicks readily responded to air speed and temperature changes .
+outcome	For each increase of .1 m/s the effective environmental temperature dropped .6 C.
+
+###11447311
+background	Pro-inflammatory cytokines have been shown to be involved in the genesis , persistence , and severity of neuropathic pain following nerve injury .
+background	The transcription factor , nuclear factor-kappa B ( NF-kappaB ) , plays a pivotal role in regulating pro-inflammatory cytokine gene expression .
+background	To elucidate the role of NF-kappaB in the pathogenesis of neuropathic pain , using a gene-based approach of NF-kappaB decoy , we tested whether the activated NF-kappaB affected pain behavior via the expression of inflammatory mediators .
+intervention	Single endoneurial injections of NF-kappaB decoy , at the site of nerve lesion , significantly alleviated thermal hyperalgesia for up to 2 weeks and suppressed the expression of mRNA of the inflammatory cytokines , iNOS , and adhesion molecules at the site of
+outcome	This finding suggests that a perineural inflammatory cascade , that involves NF-kappaB , is involved in the pathogenesis of neuropathic pain .
+
+###2685660
+population	We performed a 3-month , double-blind , placebo-controlled trial of 300 mg of gangliosides ( Cronassial ) in 40 outpatients with amyotrophic lateral sclerosis ( ALS ) .
+other	We evaluated drug effect through physical examinations and symptom scales .
+outcome	Though this dosage had no major toxic effect , Cronassial treatment did not significantly benefit ALS patients .
+
+###9403018
+background	We reviewed all pediatric cases referred for emergent/urgent therapy ( requiring treatment within 48 hours ) to identify frequency , patterns of presentation , and efficacy of therapy .
+background	We defined five categories of emergent/urgent therapy based on irradiated site and/or signs : Group I , spinal cord compression ; Group II , respiratory compromise ; Group III , infradiaphagmatic distress ; Group IV , intracranial signs ; Group V , pain .
+population	From 2/1/88 -3 / 1 / 94 , 104 children with 115 problems were referred by specialists at the Children 's Hospital of Philadelphia .
+other	Diagnosis , nature of the emergency , and response were examined .
+other	Responses were categorized as complete resolution , improvement or stabilization , and progression .
+outcome	The 104 children represented 12 % of referrals during the study period .
+outcome	The most common tumors were CNS PNET and gliomas ( 20 % ) ; and neuroblastoma ( 20 % ) .
+outcome	Forty-five problems occurred with newly diagnosed tumors and 70 after progression .
+outcome	Ninety-one episodes were managed with radiation therapy and 24 with other modalities .
+outcome	Patients with spinal cord/cauda equina ( n = 33 ) compression improved ( 55 % ) or stabilized ( 30 % ) .
+outcome	Patients with respiratory compromise from thoracic ( n = 14 ) or abdominal ( n = 5 ) disease had a response rate of 72 % .
+outcome	Eight patients in group III had a 66 % response .
+outcome	In Group IV ( n = 16 ) , 63 % had complete responses and 19 % had stabilization .
+outcome	Group V ( n = 15 ) patients had a complete or partial response of 93 % .
+outcome	Approximately 10 % of children referred for radiation therapy required emergent/urgent treatment .
+outcome	Eighty percent of patients achieved stabilization or showed improvement in signs and symptoms , indicating that radiotherapy is a valuable and reliable component of multimodal care in such situations .
+
+###9466026
+background	To describe the anaesthetic management and report the incidence of PDPH in three parturients who had experienced accidental dural puncture during labour and the subsequent deliberate intrathecal insertion of an epidural catheter .
+population	Inadvertent dural puncture with a 16-gauge Tuohy needle occurred during the first stage of labour at 3-4 cm cervical dilatation in all three women .
+intervention	The 20-gauge epidural catheter was immediately inserted into the subarachnoid space after accidental dural penetration .
+intervention	Intermittent intrathecal injections of lidocaine or bupivacaine with fentanyl were administered to provide analgesia during labour and delivery .
+outcome	Two of the women had spontaneous vaginal deliveries , whereas Caesarean section was performed in one case due to acute fetal distress during the second stage of labour .
+outcome	The intrathecal catheter was left in-situ for 13-19 hr after delivery and the women were questioned daily for symptoms of PDPH .
+outcome	None of the three women developed PDPH after dural puncture and intrathecal catheterisation with the epidural catheter .
+outcome	Immediate intrathecal insertion of the epidural catheter after accidental dural puncture during labour proved to be an effective prophylactic technique to prevent PDPH in these three parturients .
+
+###1545587
+background	An effectively functioning artificial bladder would be useful after cystectomy because of the ease of insertion and the availability to all patients .
+background	In this report , we describe a new design concept based on negative pressure drainage of the kidneys and active voiding , and we present the results of testing this device .
+background	Although previous prosthetic bladders have had difficulties with renal failure from hydronephrosis , infection from retention of urine , and encrustation of the luminal surface , the current artificial complete bladder system addresses these problems .
+
+###9112596
+background	To date , five single base pair changes of the mitochondrial DNA have been reported to occur either exclusively or with increased frequency in Caucasian patients with Parkinson 's disease ( PD ) and it has been postulated that these mutations might be casuall
+population	To evaluate these findings , we analysed the frequency of all five polymorphisms in 100 cases of pathologically proven cases of PD .
+outcome	We were either unable to detect the previously described polymorphisms in our series or found them to be present with the same frequency among controls .
+outcome	Our data do not support the hypothesis of an involvement of the mitochondrial DNA in the pathogenesis of PD .
+
+###11353957
+background	When familial adenomatous polyposis ( FAP ) is diagnosed in a patient , prophylactic surgery must be performed whether colorectal cancer is present or not .
+background	Operations for FAP have been performed through a large median abdominal incision or an additional perineal incision , depending on the coexistence of rectal cancer .
+population	Recently , we reported a technique of laparoscopic rectal amputation without abdominal skin incision for patients with rectal cancer to minimize postoperative cardiac and respiratory complications [ 6 ] .
+intervention	In this article , we report a case of laparoscopically assisted proctocolectomy with ileostomy through a minimal abdominal and perineal skin incision performed by a hand-assisted procedure .
+outcome	The purpose of combining the perineal and laparoscopic approaches is to minimize the skin incision , while retaining a rate of cure and safety equivalent to those of conventional rectal amputation , by using the advantages of laparoscopic procedures , and to
+
+###15979400
+background	To establish reliability of quantitative measures of elbow joint spastic hypertonia in post-stroke hemiparesis .
+population	Nine subjects with post-stroke hemiparesis ( mn duration : 42 months ) were tested on three separate days .
+other	Biceps brachii and brachioradialis EMG were recorded during passive ramp-and-hold extensions applied at seven speeds between 30 and 210 degrees / s.
+other	EMG burst duration , onset position threshold , and burst intensity were used to evaluate reflex activity .
+other	Torque at 40 degrees of elbow flexion was used as a mechanical indicator of spastic hypertonia .
+outcome	Across speeds ICCs were consistent , means ranged between 0.63 and 0.85 .
+outcome	Thus , relative reliability was fair to excellent for all parameters .
+outcome	Absolute reliability , determined using standard error of measurement expressed as a percentage of the mean score ( % SEM ) , improved at higher speeds ( > or = 120 degrees/s ) .
+outcome	These results establish reliability of reflex and mechanical measures of elbow spastic hypertonia post-stroke .
+outcome	The data demonstrate greater reflex detection at high speeds , indicating greater potential to document meaningful changes in these distinct aspects of spastic hypertonia following intervention .
+outcome	Based on findings of this study , reliability was demonstrated using four parameters of reflex EMG and torque indicating measurement consistency across sessions .
+outcome	These observations motivate determination of requisite effect sizes for clinical trials that evaluate treatment outcome .
+
+###9838046
+background	Expression of nitric oxide synthase ( NOS ) mRNA in post mortem brain was studied in putamen , globus pallidus and subthalamic nucleus ( STN ) of neurologically normal control subjects and patients with Parkinson 's disease ( PD ) using in situ hybridization hist
+outcome	In PD , a significant increase in NOS mRNA expression was observed in the dorsal two-thirds of the STN with respect to the ventral one-third of the STN .
+outcome	A significant increase in NOS mRNA expression per cell in the medial medullary lamina of the globus pallidus was also observed in PD .
+outcome	NOS mRNA expression was significantly reduced in PD putamen .
+outcome	These findings provide evidence of increased activity of STN neurotransmitter systems in PD and demonstrate for the first time in any species that basal ganglia nitric oxide systems can be selectively regulated in response to changes in dopaminergic input
+
+###8710182
+population	The expression of nitric oxide synthase in neurons of the gastrointestinal tract ( GIT ) after experimental spinal cord injury ( SCI ) was assessed in adult rats contused at T8 .
+other	One day and 10 weeks after injury , specimens along the GIT were studied for NADPH-diaphorase histochemistry .
+outcome	A significant increase in the number of positive cell bodies and fibers in the myenteric plexus were observed 1 day after SCI , as compared to specimens from control and chronically injured rats , with the exception of the colon , which showed unchanged or d
+outcome	Positive neurons in the submucous plexus remained unchanged , excepting an increase in the colon after acute SCI , and a decrease in the duodenum in chronically injured rats .
+outcome	The altered nitric oxide neurotransmission in the GIT may be relevant to its reduced motility after SCI .
+
+###15817952
+background	The impact of HIV/AIDS is different in developed and developing countries including India .
+background	Limited access to health care facilities , lack of infrastructure for diagnostic set up and cost of anti retroviral therapy are some of the reasons .
+background	Early accurate diagnosis of opportunistic infections ( OIs ) , the common presenting symptom of the patients , is the key for success of effective management .
+population	This review attempts an overview of few of the important OIs with which majority of Indian patients present in the clinics .
+background	Emphasis has been on conventional method of diagnostic approach , which is possible in most of the diagnostic laboratory set up in India .
+background	Awareness of the disease and maintenance of high index of clinical suspicion are required .
+background	An integrated approach to patient management with active interaction between clinicians and microbiologists would be highly beneficial .
+background	Introduction of routine in vitro antimicrobial testing system especially for Candida sp , Cryptococcus sp and Mycobacterium sp , is also important , in order to obtain a baseline data on the susceptibility pattern , which not only have therapeutic relevance ,
+outcome	Administrative support for the skill development of personnel , facility for data preservation and telemedicine can extend the diagnostic expertise to the remote areas , without affecting the patients mobility .
+
+###1031546
+population	A 26-year-old subfertile woman with a history of abortions at the 7-9th week was treated with Clomid , 50 mg for 5 days .
+outcome	A pregnancy resulted , which ended in the premature birth of a set of alive triplets that sex and blood-group determinations showed to be trizgotic .
+outcome	It is suggested that this production of a multiple ovulation in a woman with luteal deficiency be the result of excessive dosage of Clomid .
+
+###9950004
+background	Unexplained infertility is a diagnosis made by exclusion after all of the standard investigations have revealed no abnormality ( 1 ) .
+background	The range of the prevalence is from 6 to 60 percent ( 23 ) , depending on the diagnostic criteria .
+background	This article reviews the literature in the management of unexplained infertility ; published data suggest no benefit of danazol or bromocriptine .
+outcome	The empirical use of clomiphene citrate suggests that ovarian stimulation using clomiphene citrate can double the spontaneous pregnancy rate ( 52 , 58 , 59 ) .
+outcome	Induction of ovulation with human menopausal gonadotrophin ( hMG ) yields an overall pregnancy rate between 2 and 26 percent per cycle ( 68 , 74 ) .
+outcome	These results seem to be lower than those reported for in vitro fertilization ( IVF ) or gamete intrafallopian transfer ( GIFT ) procedures in similar patients ( 25-30 percent ( 92 , 95 ) ) .
+outcome	Based on the literature , a rational treatment plan for treating infertility in couples with unexplained infertility includes up to four cycles of clomiphene citrate with or without intrauterine insemination ( IUI ) .
+outcome	Superovulation with hMG and IUI or stimulated intrauterine insemination ( SIUI ) is the next step for three-cycle treatments and if unsuccessful , one of the variants of assisted reproductive techniques ( ART ) should be considered .
+
+###11714562
+background	Nitric oxide ( NO ) has been implicated in immune mediated cellular cytotoxicity and inflammatory processes including multiple sclerosis ( MS ) .
+other	We aimed to assess NO production in MS patients and to delineate its involvement in different stages .
+population	The stable end-products of NO ; nitrite ( NO2 - ) and nitrate ( NO3 - ) were analysed both in serum and CSF ( cerebrospinal fluid ) of patients with MS and non-inflammatory neurological diseases .
+other	Nitrite levels were quantified by calorimetric assay based on the Griess reaction .
+other	Nitrate levels were examined spectrophotometrically .
+outcome	MS patients exhibited significantly increased serum and CSF levels of NO2 - + NO3 - compared with the control subjects .
+outcome	CSF NO2 - + NO3 - levels were raised significantly in MS patients with both relapsing remitting ( RR ) and secondary progressive ( SP ) course .
+outcome	There was no significant difference between RR and SP MS patients with regard to NO metabolites .
+outcome	No significant correlation was found between NO metabolites and disability score , disease progression index , MRI ( magnetic resonance imaging ) activity and development of cortical atrophy on MRI .
+outcome	This study provides further evidence for excessive NO production both in CSF and peripheral blood of MS patients .
+outcome	Excessive CSF NO2 - + NO3 - levels being more increased than the levels in sera supports pathological inflammatory process within CNS ( central nervous system ) in both stages of MS.
+outcome	Another implication for the role of NO and INOS inhibitors in the treatment of MS patients with both RR and SP courses was also suggested .
+
+###11709652
+background	Changes in amplitude of the soleus H ( S ( H ) ) - reflex and its neurographic correlates ( P ( 1 ) and P ( 2 ) waves ) after vibration of the soleus muscle have been evaluated as a function of mechanical stimulation frequency , duration of the conditioning train , and te
+background	Additional experiments aimed at assessing the nervous system mechanisms underlying the postvibration depression ( PVD ) have been performed .
+intervention	In particular , homonymous ( S ( HMR ) or S ( H ) ) versus heteronymous ( S ( HTR ) ) soleus response , evoked respectively by tibial nerve and femoral nerve electrical stimulation , the effectiveness of sub-H threshold tibial nerve conditioning volleys on the S ( HTR ) , an
+outcome	It was found that PVD occurs in the absence of changes in amplitude of the P ( 1 ) wave and the S ( HTR ) , is paralleled by a reduced effectiveness of tibial nerve-conditioning volleys on the S ( HTR ) and is shortened consistently by brief passive stretching of t
+outcome	It follows that PVD may be the result of a long-lasting reduction of the transmitter release from Ia presynaptic terminals depending , at least in part , on a protracted postvibration Ia afferent discharge caused by spindles thixotropy .
+outcome	These findings may provide a better understanding of the pathophysiologic mechanisms underlying spasticity in humans .
+
+###11688257
+background	Persistent neck symptoms following flexion-extension type injuries are common and may respond to early mobilization .
+background	Cervical degenerative disc and joint disease probably account for most chronic neck-related problems .
+background	Most often symptoms result from compression of neural structures , especially nerve roots .
+background	The cervical spine is commonly affected by rheumatoid arthritis , ankylosing spondylitis , and other inflammatory arthropathies .
+background	Potentially serious complications usually result from subluxations at C1-C2 , usually in chronic rheumatoid arthritis .
+outcome	Most problems causing neck pain without neurologic signs or symptoms can be managed conservatively with physical therapy maneuvers , especially interrupted traction .
+
+###1885948
+background	This is a review of the impact of spinal cord injury on female sexuality , which has received far less attention than male sexuality , and on menstruation , contraception and pregnancy , which have been reported more extensively .
+outcome	The few reports of sexuality in women after spinal cord injury suggests a wide range of adaptability , from 40 % to 88 % of the subjects achieving satisfactory sexual activity .
+outcome	Some women were able to adapt a positive body image and find new ways of stimulation to orgasm , despite altered body shape , bladder and bowel incontinence , spasticity , and lack of sensation often resulting from spinal injury .
+outcome	The pill , vaginal methods , and IUDs are not recommended , but condoms and possibly Norplant , are appropriate for these women .
+outcome	Menstruation , often ceasing for several months after injury , usually resumes .
+outcome	One study reported lack of menstrual pain , others did not .
+outcome	Many spinal injuries women have achieved 1 or more pregnancies .
+outcome	A few cases have been described of successful pregnancy when the injury occurred during gestation , as has 1 intrauterine death that was successfully delivered by induction .
+outcome	Premature cervical dilatation and labor and small-for-dates infants are more common than usual , but spontaneous abortion are not .
+outcome	Some of the typical problems in pregnancy are urinary tract infections , decubiti , anemia , pedal edema , weight transfer problems , thrombophlebitis , TIA episodes , and nausea .
+outcome	A more serious problem is management of labor , especially if the woman can not perceive labor pains , or can not bear down .
+outcome	Frequent check-ups and early hospitalization are recommended .
+outcome	A potentially fatal risk in those injured at T6 or above , is autonomic dysreflexia , stimulated by induction , labor , delivery , or even breast feeding .
+outcome	Autonomic dysreflexia can be treated with epidural anesthesia with lidocaine .
+outcome	Induction is contraindicated .
+outcome	Lactation may cease after 3 months or so because of lack of nipple stimulation .
+
+###15725790
+background	To evaluate the reliability and validity of a self-report FIM ( FIM-SR ) in two samples of adults with disabilities .
+other	Participants in a clinical trial of amitriptyline for pain ( n = 84 with spinal cord injury [ SCI ] , n = 38 with amputation ) provided responses to the study measures via telephone interview .
+other	Reliability was estimated using Cronbach 's alpha and test-retest correlation coefficients , and validity was examined by comparing FIM-SR scores with the Craig Handicap Assessment and Reporting Technique ( CHART ) by comparing the CHART scores between the participants with SCI and amputation , and by comparing CHART scores between subjects with different levels of SCI .
+outcome	In the SCI sample , the FIM-SR demonstrated adequate reliability , and correlational analyses supported the validity of the FIM-SR motor scales .
+outcome	In addition , the FIM-SR motor scales discriminated subjects with different diagnoses ( SCI vs. amputation ) and injury levels ( paraplegia vs. tetraplegia ) .
+outcome	The psychometric properties of the entire FIM-SR in the amputation sample and of the FIM-SR cognitive scales in the SCI sample were difficult to determine due to a ceiling effect in which these scale scores were skewed toward the top end of the range .
+outcome	The FIM-SR motor scales and total FIM-SR score are reliable and valid measures of perceived functional independence in individuals with SCI .
+outcome	However , all of the FIM-SR scales in the amputation sample , and the FIM-SR cognitive scales in the SCI sample , seem to be less useful measures of functioning due to subjects reporting high levels of independence .
+outcome	The FIM-SR should be retested in amputation samples with more variable levels of functioning .
+
+###2778034
+background	The reasons for a different incidence of osteoporotic fractures in white and black women are unknown .
+background	Previous racial comparisons of bone mass have been limited by racial differences in body weight and socioeconomic , health , and nutritional status .
+population	This cross-sectional study examined bone density in 105 black and 114 white healthy nonobese women , 24-65 yr old , using dual photon absorptiometry of the lumbar spine and single photon absorptiometry of the distal radius .
+outcome	Bone density at both sites was higher in blacks at all ages than in whites .
+outcome	When adjusted for age and body mass index , mean bone density was 6.5 % higher in blacks at both spine and radius ( P less than 0.0001 ) .
+outcome	The cross-sectional rate of decline of vertebral bone density was similar between races ; however , radial density increased 3.8 % / decade ( P = 0.03 ) in premenopausal blacks under age 46 yr , while it declined 3.2 % / decade ( P = 0.09 ) in premenopausal whites .
+outcome	The racial difference in slopes in these premenopausal women is significant ( P = 0.002 ) .
+outcome	These findings suggest that attainment of higher peak bone mass and delayed onset of bone loss contribute to the lower incidence of osteoporotic fractures in black women .
+
+###10235074
+background	Pancreatic carcinoma is the fourth cause of death for cancer in the USA , carrying a dismal prognosis and poor overall survival .
+background	Unfortunately , resection for cure is feasible in a limited number of patients , thus confirming the need for an early diagnosis and accurate preoperative staging to select patients potentially resectable from those candidates to palliative treatment .
+background	Among imaging modalities , endoscopic procedures ( endoscopic retrograde cholangiopancreatography , laparoscopy and endoscopic ultrasonography ) play a key role in the diagnosis and staging of pancreatic tumors .
+background	Endoscopic retrograde cholangiopancreatography ( ERCP ) allows direct visualization of the main pancreatic duct and its side branches with their morphologic alterations , which are present in most cases of pancreatic cancer .
+background	The method is very sensitive in experienced hands , with diagnostic accuracy over 95 % .
+background	The most common finding in pancreatic cancer is the stricture of the pancreatic duct , the bile duct , or both .
+background	Moreover , ductal brush cytology and K-ras mutation analysis can be performed during ERCP , possibly improving the diagnostic accuracy of the technique .
+background	Diagnostic laparoscopy provides detection of small ( < 1 cm ) liver metastases and peritoneal implants of tumor which can not be visualized by any other imaging modality , with the possibility to biopsy under direct vision suspicious areas or to perform pe
+background	The adjunct of laparoscopic ultrasound improves the staging capabilities of the technique for pancreatic cancer ( retroperitoneal spread , vascular invasion ) .
+background	Endoscopic ultrasonography ( EUS ) is able to produce great detail of the pancreatic parenchyma and regional lymph nodes .
+background	It is especially sensitive in the detection of small pancreatic masses which can not be imaged with other modalities .
+background	EUS has the additional advantage of directing transduodenal fine-needle aspiration biopsies .
+background	Presently it is the most sensitive technique for the diagnosis and locoregional staging of pancreatic cancer , but limits have been identified in the lack of specificity ( differentiation between malignant tumor and focal pancreatitis ) and its operator-depe
+other	Reported is our experience with EUS in the diagnosis and staging of pancreatic cancer .
+intervention	Over a seven-year period 43 patients with pancreatic tumors were staged with EUS preoperatively .
+other	Twenty-two patients were submitted to surgery at our Institution and EUS findings were compared with results of pathology or surgical exploration .
+outcome	EUS provided sensitivity of 100 % for the diagnosis of pancreatic cancer , while its accuracy for staging tumor infiltration , lymph node involvement and vascular invasion was 86.4 % , 69.2 % and 77.8 % , respectively .
+outcome	Despite improvements in the noninvasive imaging modalities , endoscopic techniques are likely to remain established methods for the diagnosis and staging of pancreatic cancer .
+outcome	EUS with fine-needle aspiration biopsy is probably the most promising , followed by laparoscopy ( and laparoscopic ultrasound ) which is essential to rule out small peritoneal implants and liver metastasis .
+
+###16461168
+background	The objective of this study was to examine alteration in head repositioning accuracy ( HRA ) , range of motion , and pain intensity in patients with chronic cervical pain syndrome without a history of cervical trauma .
+study design	The study was a prospective , randomized , controlled trial .
+population	Forty-one patients with chronic cervical pain were randomly assigned to either a control group or a chiropractic treatment group .
+other	All patients were clinically examined , given general information on cervical pain , and provided with training instructions based on the clinical evaluation .
+intervention	The treatment included sessions with high-velocity and low-amplitude manipulation , proprioceptive neuromuscular facilitation , ischemic compression of myofascial trigger points , and spinal rehabilitation exercises aiming to normalize cervical range of moti
+other	Subjective pain intensity , cervical kinesthetic sensibility , and CROM were recorded before and after the study period .
+outcome	There was no difference between the treatment patients and the control subjects at the beginning with regard to age , sex , subjective pain intensity , range of motion , and HRA .
+outcome	At the 5-week follow-up , the treatment patients showed significant reductions in pain and improvement of all HRA aspects measured whereas the control subjects did not show any reduction in pain and improvement in only one HRA aspect .
+outcome	No significant difference was detected in CROM .
+outcome	The results of this study suggest that chiropractic care can be effective in influencing the complex process of proprioceptive sensibility and pain of cervical origin .
+outcome	Short , specific chiropractic treatment programs with proper patient information may alter the course of chronic cervical pain .
+
+###10577398
+background	To determine the predictive value of the rate of change of serial beta-human chorionic gonadotropin ( hCG ) values in patients with symptoms suggestive of ectopic pregnancy but who have indeterminate transvaginal ultrasound findings , and to determine whethe
+population	A retrospective study was performed on consecutive emergency department patients from August 1 , 1991 , through August 1 , 1998 , presenting with abdominal pain or vaginal bleeding , a positive beta-hCG test result , and indeterminate transvaginal ultrasound fi
+other	Patients were eligible for the study if they had a second beta-hCG assay performed within 7 days of the initial visit and before either a diagnostic dilation and evacuation or laparoscopy .
+other	Patients were excluded if they were lost to follow-up .
+other	Patients were divided into 4 groups based on the rate of change of beta-hCG values over a 48-hour interval ( increase by > 66 % , increase by < 66 % , decrease by < 50 % , decrease by > 50 % ) .
+other	In addition , the 4 main groups were further subdivided depending on whether the endometrial cavity was empty at ultrasound examination .
+other	Intergroup differences in the frequency of ectopic pregnancy based on the rate of change of the beta-hCG value were compared using logistic regression .
+other	Logistic regression also was used to determine whether addition of the ultrasound result improved predicative accuracy .
+other	A P value of less than .05 was considered significant .
+other	Odds ratios ( ORs ) were determined for each subgroup .
+outcome	Three hundred thirty-one eligible patients were identified ; of these , 24 were excluded .
+outcome	Of the 307 enrolled patients , 33 ( 10.7 % ) had a final diagnosis of ectopic pregnancy .
+outcome	Intergroup differences in the frequency of ectopic pregnancy based on the beta-hCG rate of change were significant ( P < .0001 ) .
+outcome	Addition of the ultrasound result to this model further improved predicative accuracy ( P < .0001 ) .
+outcome	Overall , patients with increasing beta-hCG values were at increased risk compared with those with decreasing beta-hCG values , and patients with empty uteri at ultrasound were at increased risk compared with those with uteri that were not empty .
+outcome	Combining the beta-hCG rate of change with the ultrasound result identified 3 high-risk groups : patients with beta-hCG values that increased by less than 66 % and an empty uterus at ultrasound ( OR 24.8 ) ; patients with beta-hCG values that decreased by less
+outcome	Patients with beta-hCG values that decreased by more than 50 % were found to be at low risk for ectopic pregnancy irrespective of the specific endometrial findings at ultrasound .
+outcome	The rate of change of serial beta-hCG values , in patients with an indeterminate pelvic ultrasound examination , is predictive of ectopic pregnancy .
+outcome	Addition of whether the endometrial cavity is empty at ultrasound leads to a further improvement in predictive accuracy .
+
+###17253525
+background	Family-centred care ( FCC ) is a widely used model in paediatrics , and is felt instinctively to be the best way to provide care to children in hospital .
+background	However , its effectiveness has not been measured .
+background	The primary objective of this review was to assess the effects of family-centred models of care for hospitalised children when compared to standard or professionally-centred models of care , on child , family and health service outcomes .
+other	We searched MEDLINE ( 1966 to February 2004 ) ; the Cochrane Central Register of Controlled Trials ( CENTRAL ) , ( The Cochrane Library , Issue 2 , 2004 ) ; CINAHL ( 1982 to February 2004 ) ; PsycINFO ( 1972 to February 2004 ) ; ERIC ( 1982 to February 2004 ) ; Sociological Abstracts ( 1963 to February 2004 ) ; Social Work Abstracts ( 1977 to February 2004 ) ; and AMI ( Australasian Medical Index ) ( 1966 to February 2004 ) .
+other	We searched for randomised controlled trials ( RCTs ) or quasi-randomised controlled trials including cluster randomised trials and controlled clinical trials ( CCTs ) , and controlled before and after studies ( CBAs ) , in which family-centred care models are compared with professionally-centred models of care for hospitalised children ( aged up to 12 years ) .
+other	Studies also had to meet criteria for family-centredness and methodological quality .
+other	In order to assess studies for the degree of family-centredness , this review utilised a modified rating scale based on a validated instrument .
+other	Two review authors undertook the searches , and three authors independently assessed trial quality and extracted data .
+other	We contacted study authors for additional information .
+outcome	No studies met inclusion criteria , and hence no analysis could be undertaken .
+outcome	Five studies came close to inclusion .
+outcome	Three of these studies were excluded primarily because of inadequate or unclear blinding of outcome assessment , while for one study the age group was outside the parameters of this review .
+outcome	One study met most criteria , but the children were aged up to 18 years .
+outcome	We contacted the study authors who kindly provided a subset analysis , but on further examination the study also proved to have inadequate blinding procedures and so was not included .
+outcome	It was not possible to undertake any subset analysis of populations .
+outcome	Of the other studies identified through the search , 13 met some of the inclusion criteria but were reports of qualitative research and are reviewed elsewhere .
+outcome	This review has highlighted the dearth of high quality quantitative research about family-centred care .
+outcome	A much more stringent examination of the use of family-centred care as a model for care delivery to children and families in health services is needed .
+
+###11581542
+background	To compare muscle strength and muscle fatigue of the knee extensors and flexors in individuals with multiple sclerosis ( MS ) and non-MS control subjects and to evaluate the reliability of muscle strength and muscle fatigue testing in these individuals .
+population	Thirty individuals ( 13 women and 2 men for both MS and control groups ) , age ( mean + / - SD ) 38.8 + / - 10 for MS and 33.1 + / - 7.6 yr for controls , participated in this investigation .
+intervention	Peak torque was measured on two occasions separated by approximately 7 d at 30 , 60 , 90 , 120 , 180 degrees.s ( -1 ) with 2 min of recovery between each bout .
+intervention	The nondominant leg was tested followed by the dominant leg after 10 min of recovery .
+intervention	Subjects then performed three bouts of 30 flexions and extensions of the dominant leg at 180 degrees.s ( -1 ) with 1 min of recovery between bouts .
+outcome	The reliability of muscle torque was very high for individuals with MS ( only 1 of 20 measurements with an ICC below 0.900 ) .
+outcome	Total work was also highly reliable for MS , but the Fatigue Index ( work during the last 15 contractions/work during the first 15 contractions ) x 100 was not .
+outcome	Peak torque adjusted for age , body mass , and fat free mass ( measured by whole body plethysmography ; the Bod Pod ; Life Measurement Instruments ; Concord , CA ) was significantly greater for controls than for MS for three of four lower body muscle groups teste
+outcome	For the muscle fatigue test ( 3 bouts of 30 knee extensions and flexions at 180 degrees.s ( -1 ) ) , the Fatigue Index was greater ( less fatigue ) for the knee extensors for controls than MS for the third bout .
+outcome	For flexion , the Fatigue Index was greater for controls than MS over the three bouts ( group effect ) .
+outcome	Total work was significantly greater for controls than MS for the flexors ( group effect ) and approached significance for the extensors .
+outcome	Individuals with MS were weaker than controls when data were adjusted for age , body mass , and fat free mass .
+outcome	This latter finding ( force relative to age and fat free mass ) suggests that there is a reduced ability to activate muscle mass in MS and/or the muscle mass of individuals with MS is of lower quality ( i.e. , reduced force/unit muscle mass ) than controls .
+

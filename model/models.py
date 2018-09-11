@@ -8,8 +8,6 @@ from .data_utils import minibatches, pad_sequences, get_chunks, PAD
 from .general_utils import Progbar
 from .base_model import BaseModel
 
-from bilm import BidirectionalLanguageModel, weight_layers
-
 
 class HANNModel(BaseModel):
     """Specialized class of Model for NER"""

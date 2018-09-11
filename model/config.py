@@ -1,6 +1,5 @@
 import os
 
-
 from .general_utils import get_logger
 from .data_utils import get_trimmed_wordvec_vectors, load_vocab, \
         get_processing_word
