@@ -29,3 +29,16 @@ The original data is from the [ALTA-NICTA Challenge](https://www.kaggle.com/c/al
 The embeddings I mainly used is from [here](http://bio.nlplab.org/).
 
 ## Usage
+1. [DO NOT MISS THIS STEP] Build vocab from the data and extract trimmed embedding vectors according to the config in model/config.py.
+
+```
+python build_data.py
+```
+2. Train the model with
+
+```
+python train.py
+```
+
+## Words in the end
+This project is licensed under the terms of the MIT license. If used for research, citation would be appreciated. If you have any questions, feel free to post them in the issues. 
