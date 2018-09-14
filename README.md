@@ -26,7 +26,7 @@ I have put the cleaned data files for PubMed-20k dataset inside the folder "data
 The original data is from the [ALTA-NICTA Challenge](https://www.kaggle.com/c/alta-nicta-challenge2), but it is hard to download from it. So I shared this dataset [here](https://github.com/jind11/NICTA-PIBOSO-Dataset). If you carefully look at this dataset, you will find that some sentences have multiple labels, but in our model scenerios, any sentence only accepts one label. So I assigned the label to the sentences that have multiple labels by majority voting, where I first obtained the statistics for each label, then within the label candidates, I chose the label that appears most times. For example, one sentence has three labels: A, B, and C, and in the whole train set, label A appears most frequently, so I chose label A for this sentence. I have put the processed data in the folder "data/nicta_piboso".
 
 ### Embeddings
-The embeddings I mainly used is from [here](http://bio.nlplab.org/).
+The embeddings I mainly used is from [here](http://bio.nlplab.org/). You'd better convert this binary file into txt file since it would be much more convenient for embedding trim. 
 
 ## Usage
 1. [DO NOT MISS THIS STEP] Build vocab from the data and extract trimmed embedding vectors according to the config in model/config.py.
