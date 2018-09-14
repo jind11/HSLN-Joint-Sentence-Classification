@@ -220,6 +220,31 @@ def export_trimmed_wordvec_vectors(vocab, wordvec_filename, trimmed_filename):
     print('{} out of {} tokens can find pre-trained embeddings!'.format(num, len(vocab)))
 
 
+def export_trimmed_wordvec_vectors_bin(vocab, wordvec_filename, trimmed_filename):
+    """Saves glove vectors in numpy array
+
+    Args:
+        vocab: dictionary vocab[word] = index
+        glove_filename: a path to a glove file
+        trimmed_filename: a path where to store a matrix in npy
+        dim: (int) dimension of embeddings
+
+    """
+    num = 0
+    word_vectors = KeyedVectors.load_word2vec_format(wordvec_filename, binary=True)
+    with open(trimmed_filename, 'w') as outFile:
+        for token in vocab:
+            try:
+                vec = word_vectors[token]
+            except:
+                pass
+            else:
+                outFile.write(' '.join([token] + list(map(str, vec))) + '\n')
+                num += 1
+
+    print('{} out of {} tokens can find pre-trained embeddings!'.format(num, len(vocab)))
+
+
 def get_trimmed_wordvec_vectors(filename, vocab):
     """
     Args:

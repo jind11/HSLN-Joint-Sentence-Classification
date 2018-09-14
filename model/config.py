@@ -94,7 +94,7 @@ class Config():
 
         self.parser.parse_args(namespace=self)
 
-        self.filename_wordvec = os.path.join('/data/medg/misc/jindi/nlp/embeddings', 
+        self.filename_wordvec = os.path.join('/DIR/OF/EMBEDDINGS', 
                                             self.filename_wordvec)
         self.dir_output = os.path.join('results', self.dir_output)
         self.dir_model  = os.path.join(self.dir_output, "model.weights")
